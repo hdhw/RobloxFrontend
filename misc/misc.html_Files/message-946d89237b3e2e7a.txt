@@ -1,0 +1,22 @@
+// ==UserScript==
+// @name         Block Wayback Roblox Login
+// @namespace    https://greasyfork.org
+// @version      1
+// @description  
+// @author       
+// @match        https://web.archive.org/web/*https://www.roblox.com/login*
+// @match        https://web.archive.org/web/*https://www.roblox.com/NewLogin*
+// @grant        none
+// @run-at       document-start
+// ==/UserScript==
+
+(function () {
+    'use strict';
+
+    window.stop();
+
+    if (document.documentElement) {
+        document.documentElement.innerHTML = '';
+    }
+
+})();

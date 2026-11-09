@@ -1,0 +1,5393 @@
+"My/AccountBalance.aspx" original-title="Tickets">HOW MANY TIX YOU WANT</a>
+"My/AccountBalance.aspx" original-title="Username">YOUR USERNAME</a>
+"My/AccountBalance.aspx" original-title="PASSWORD">YOUR PASSWORD</a>
+"My/AccountBalance.aspx" original-title="TshirtID">Your T-shirt ID</a>
+--[[Why do we need your password? That's because script needed to your account to edit it..]]--
+--DO NOT EDIT BELOW-
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="www.roblox.com" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<!-- MachineID: WEB30 -->
+
+<head id="ctl00_Head1">
+
+    <!--[if lte IE 7]>
+
+    <style>
+
+    .Navigation .dropdownnavcontainer
+
+    {
+
+        margin-left:121px;
+
+    }
+
+    </style>
+
+    <![endif]-->
+
+    <meta http-equiv="X-UA-Compatible" content="IE=7" /><title>
+
+	Sci-Fi MedVac 4300, a Gear by ROBLOX - ROBLOX (updated 4/20/2012 1:31:25 PM)
+
+</title>
+
+  <script type="text/javascript" src="/js/JSErrorTracker.js"></script>
+
+
+
+    <link id="ctl00_Imports" rel="stylesheet" type="text/css" href="/CSS/Base/CSS/AllCSS.ashx?v=20120419qrwef&amp;t=RBX2" /><link id="ctl00_Link1" rel="icon" type="image/vnd.microsoft.icon" href="favicon.ico" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Language" content="en-us" /><meta name="author" content="ROBLOX Corporation" /><meta id="ctl00_metadescription" name="description" content="Sci-Fi MedVac 4300, a Gear by ROBLOX - ROBLOX (updated 4/20/2012 1:31:25 PM): Heal yourself and your teammates with this Sci Fi MedVac" /><meta id="ctl00_metakeywords" name="keywords" content="virtual good Sci-Fi MedVac 4300, a Gear by ROBLOX - ROBLOX (updated 4/20/2012 1:31:25 PM) items, ROBLOX Sci-Fi MedVac 4300, a Gear by ROBLOX - ROBLOX (updated 4/20/2012 1:31:25 PM)" /><meta name="viewport" content="width=920" />
+
+<script type="text/javascript">
+
+
+
+    var _gaq = _gaq || [];
+
+    _gaq.push(['_setAccount', 'UA-11419793-1']);
+
+    _gaq.push(['_setCampSourceKey', 'rbx_source']);
+
+    _gaq.push(['_setCampMediumKey', 'rbx_medium']);
+
+    _gaq.push(['_setCampContentKey', 'rbx_campaign']);
+
+    
+
+    
+
+    
+
+    _gaq.push(['b._setAccount', 'UA-486632-1']);
+
+    _gaq.push(['b._setCampSourceKey', 'rbx_source']);
+
+    _gaq.push(['b._setCampMediumKey', 'rbx_medium']);
+
+    _gaq.push(['b._setCampContentKey', 'rbx_campaign']);
+
+
+
+    
+
+        _gaq.push(['c._setAccount', 'UA-26810151-2']);
+
+    
+
+
+
+    (function() {
+
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+
+    })();
+
+
+
+</script>
+
+<meta property="og:title" content="Sci-Fi MedVac 4300, a Gear by ROBLOX - ROBLOX (updated 4/20/2012 1:31:25 PM)" /><meta property="og:type" content="Game" /><meta property="og:url" content="http://www.roblox.com/item.aspx?seoname=Sci-Fi-MedVac-4300&amp;id=78005082" /><meta property="og:site_name" content="ROBLOX" /><meta property="fb:app_id" content="190191627665278" /><meta property="og:description" content=": Heal yourself and your teammates with this Sci Fi MedVac" /><meta property="og:image" content="http://t7ak.roblox.com/2039926edff193e42fca0d6462e2a01e" /></head>
+
+<body>
+
+
+
+<style type="text/css">
+
+    
+
+</style>
+
+
+
+   <form name="aspnetForm" method="post" action="/Sci-Fi-MedVac-4300-item?id=78005082" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm" enctype="multipart/form-data">
+
+<div>
+
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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aGFyYWN0ZXIuYXNweGRkAk0PZBYEAgEPFgIfAgUiaHR0cDovL3d3dy5yb2Jsb3guY29tL0NhdGFsb2cuYXNweGQCAw9kFgICAQ8PFgIfDgUTfi9NeS9DaGFyYWN0ZXIuYXNweGRkAk8PZBYEAgEPFgIfAgUiaHR0cDovL3d3dy5yb2Jsb3guY29tL0NhdGFsb2cuYXNweGQCAw9kFgICAQ8PFgIfDgUTfi9NeS9DaGFyYWN0ZXIuYXNweGRkAlEPZBYEAgEPFgIfAgUiaHR0cDovL3d3dy5yb2Jsb3guY29tL0NhdGFsb2cuYXNweGQCAw9kFgICAQ8PFgIfDgUTfi9NeS9DaGFyYWN0ZXIuYXNweGRkAlMPZBYEAgEPFgIfAgUiaHR0cDovL3d3dy5yb2Jsb3guY29tL0NhdGFsb2cuYXNweGQCAw9kFgICAQ8PFgIfDgUTfi9NeS9DaGFyYWN0ZXIuYXNweGRkGBQFNmN0bDAwJGNwaEJhbm5lciRjcGhCYW5uZXJIZWFkZXIkQmFubmVyT3B0aW9uc0xvZ2luVmlldw8PZAIBZAUyY3RsMDAkY3BoQmFubmVyJENsaWVudEluc3RhbGxlciRjdGwwMCRNdWx0aVZpZXdSdW4PD2QCBGQFKmN0bDAwJGNwaFJvYmxveCRBc3NldFByZXNlbnRhdGlvbk11bHRpVmlldw8PZGZkBSBjdGwwMCRjcGhSb2Jsb3gkcGdJdGVtc0ZvclJlc2FsZQ88KwAEAQNmZAUcY3RsMDAkY3BoUm9ibG94JEJhZGdlRXhwaXJlZA8PZAIBZAUhY3RsMDAkY3BoUm9ibG94JGxzdEl0ZW1zRm9yUmVzYWxlDzwrAA4DCGYMZg0CCmQFHWN0bDAwJGNwaFJvYmxveCREdXJhdGlvblRpbWVyDw9kAgFkBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBgU4Y3RsMDAkaWZyYW1lSGVhZGVyJEN1cmF0ZWRHYW1lc0xvZ2luJGxzTG9naW5TdGF0dXMkY3RsMDEFOGN0bDAwJGlmcmFtZUhlYWRlciRDdXJhdGVkR2FtZXNMb2dpbiRsc0xvZ2luU3RhdHVzJGN0bDAzBWZjdGwwMCRjcGhCYW5uZXIkY3BoQmFubmVySGVhZGVyJEJhbm5lck9wdGlvbnNMb2dpblZpZXckQmFubmVyT3B0aW9uc19BdXRoZW50aWNhdGVkJGxzTG9naW5TdGF0dXMkY3RsMDEFZmN0bDAwJGNwaEJhbm5lciRjcGhCYW5uZXJIZWFkZXIkQmFubmVyT3B0aW9uc0xvZ2luVmlldyRCYW5uZXJPcHRpb25zX0F1dGhlbnRpY2F0ZWQkbHNMb2dpblN0YXR1cyRjdGwwMwVkY3RsMDAkY3BoQmFubmVyJGNwaEJhbm5lckhlYWRlciRCYW5uZXJBbGVydHNMb2dpblZpZXckQmFubmVyQWxlcnRzX0F1dGhlbnRpY2F0ZWQkbHNMb2dpblN0YXR1cyRjdGwwMQVkY3RsMDAkY3BoQmFubmVyJGNwaEJhbm5lckhlYWRlciRCYW5uZXJBbGVydHNMb2dpblZpZXckQmFubmVyQWxlcnRzX0F1dGhlbnRpY2F0ZWQkbHNMb2dpblN0YXR1cyRjdGwwMwUmY3RsMDAkaWZyYW1lSGVhZGVyJE1lbnUkaGxNeVJvYmxveExpbmsPD2QCAWQFGGN0bDAwJEFkbWluUGFuZUxvZ2luVmlldw8PZAIBZAU5Y3RsMDAkY3BoQmFubmVyJGNwaEJhbm5lckFkJEl0ZW1CYW5uZXJBZCRBc3luY0FkTXVsdGlWaWV3Dw9kAgFkBTVjdGwwMCRjcGhCYW5uZXIkY3BoQmFubmVySGVhZGVyJEJhbm5lckFsZXJ0c0xvZ2luVmlldw8PZAIBZAVfY3RsMDAkY3BoQmFubmVyJGNwaEJhbm5lckhlYWRlciRCYW5uZXJBbGVydHNMb2dpblZpZXckQmFubmVyQWxlcnRzX0F1dGhlbnRpY2F0ZWQkcmJ4QmFubmVyQWxlcnQPD2QCAWQFMmN0bDAwJGNwaFJvYmxveCRhZHNXaWRlU2t5c2NyYXBlciRBc3luY0FkTXVsdGlWaWV3Dw9kAgFkBSNjdGwwMCRyYnhHb29nbGVBbmFseXRpY3MkTXVsdGlWaWV3MQ8PZGZkBR5jdGwwMCRjcGhSb2Jsb3gkQmFkZ2VQbGFjZUxpbmsPD2QCAWQFJGN0bDAwJGlmcmFtZUhlYWRlciRDdXJhdGVkR2FtZXNMb2dpbg8PZAIBZAUzY3RsMDAkY3BoQmFubmVyJGNwaEJhbm5lckhlYWRlciRNZW51JGhsTXlSb2Jsb3hMaW5rDw9kAgFkBSRjdGwwMCRSaWdodEd1dHRlckFkJEFzeW5jQWRNdWx0aVZpZXcPD2QCAWQFI2N0bDAwJExlZnRHdXR0ZXJBZCRBc3luY0FkTXVsdGlWaWV3Dw9kAgFkgjHeMNDgPTlh8xBpo4pN5kBThEU=" />
+
+</div>
+
+
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+var theForm = document.forms['aspnetForm'];
+
+if (!theForm) {
+
+    theForm = document.aspnetForm;
+
+}
+
+function __doPostBack(eventTarget, eventArgument) {
+
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+
+        theForm.__EVENTTARGET.value = eventTarget;
+
+        theForm.__EVENTARGUMENT.value = eventArgument;
+
+        theForm.submit();
+
+    }
+
+}
+
+//]]>
+
+</script>
+
+
+
+
+
+<script src="/WebResource.axd?d=h6JGmI6BQZ1O6dIyg8tR4IHvRle_W93uf4lq1t4EqaDE50xn2BLl08HF7RaibNd42F35_b4LDdnfmA2j9Hxw5dSCfJ81&amp;t=634612342507763600" type="text/javascript"></script>
+
+
+
+
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+Roblox.JSErrorTracker.initialize({'internalEventListenerPixelEnabled': true});function initClientProps() { Roblox.Client._CLSID = "76D50904-6780-4c8b-8986-1A7EE0B1716D";Roblox.Client._installHost = "setup.roblox.com";Roblox.Client.ImplementsProxy = true;Roblox.Client._silentModeEnabled = true;Roblox.Client._bringAppToFrontEnabled = false;}function checkRobloxInstall(){return RobloxLaunch.CheckRobloxInstall("/Install/Download.aspx");}//]]>
+
+</script>
+
+
+
+<script src="/ScriptResource.axd?d=TBG_iUdTW4hdgi10N6kOxXKGxCRf0MoF6Hn_OEYOQPxyfnFI30w3OYoUyn80FT4mpUXtYOAHTSa6CbYjcS341Wu-S4zHvgMwz4GC2Y1wZOZO3Vh74qG01T_eDV39QP9zTKw7WgdCaB9Hwd3rpkInarOGF3w1&amp;t=68c4b60a" type="text/javascript"></script>
+
+<script src="/ScriptResource.axd?d=6KjiVXSVWXm_XryjayF2xFMujw7k8c702himbAaj4t2VgYPgTyQ0LLEmEaHUSVP1xB76ppnKPwiNqhNhs3TCZ2BpEec9AWcSyum5KoCFnMJ25guzTFBdsm6xlRfATfsJT-dksPOZQjN3d4PyoKEIhnhHOiDfSPfhVuZQMM6eLK9dQ3R09hEycXurjUCQsOdhg9TTjiV44EEmkV2fLK5idb4E-BM2tRlV2Qy9GVOOQpxw0uoRUNmKshBbYEj-ewoWpNz5-3EyLcpS7puMvP4vGMvI7ZvZuzq_XVGQT6O-xNhYXUaI48RVR0YXEduZwEN79gkRX2UBtLHFLDw9IWNBwtmjx_ruZE43ewNGe7VqR3BKMB-9nHYNGQGvq23KXpeSqPMZyVdi9Rld8MF_lXVZN3gJkzcYuzlelFf5eDRPDxKiT3YWTko-DXVYOYopGALho3LfgqFjLqX87As03ZortaSYttilUtXJjTfRrci3Y9fWsOghBo_JrTzqxbBE6cRX9QhPFfg6rwiWMmqlWRG7U4pI7iUwFIFT8GfAZWc-g9vQhszQ6SMmwHa6kF78i-CKBirHG1p3kroGZ5ukMalD_QA3vaUOovYyiiS2reU63Xw0XKgp052SlLB2lfxI1GwhLyX41wXYrUibfxPG4Lggyv7ewnr9k_PfJTDS8R3AWwMquZg1jFRH0QAVPCA7E8CAgUAzyYCaE-gDqRCHUl9sPMiEmp0JR178ds4mSRiCnw4NaK49RBAYxKAck6ulY7fIMmFOq0FstF1C-CPX7WVuTasr5iweh4pSwYFxlYzAEoZEbzj_0" type="text/javascript"></script>
+
+<script src="/ScriptResource.axd?d=jJztrwAUdlzW85b_DZT5W_vCdL4u9lG2COrGI3hIpWWRPPFyKHfCp-KNUq_KzL2-oeNnyzV-Wx61NTgTF4SbHb5VYMq23qz5YDnvqNFD9UrKV_LL7DIuiBUJ2PZfCJhyuoApxuvaVqg_qMJzo_AHj-wL1s_JUV4dOg7h9BokH4gYTk9Sc0_YryevfdCZFqEULUFWBQjClytqRsmEl4GBCHHCwfwW4d2MiOLrSO8sRXT5uA6wc66xgtXLJGSh1dSrAeXtADGuTTHjKOGrRZiFPzD854e00IjpkXXy-KAVloXGbKbWuRvhv1YpItmrBUxPciPWZyl7mPmszUqPTRH423fSg-Dd-rBP8TO1cAZHI2CIUpdwiIR0_f44frsdh3vU2wmHZw2" type="text/javascript"></script>
+
+<script src="js/jquery.jsoncookie.js" type="text/javascript"></script>
+
+<script src="/ScriptResource.axd?d=Oq6v7Nby3SCGwFhvldX8FQo10r9j62xEaQqUBjW2b5sqvaclfzc_TFnEVRGg140_pMTxNoX1bZ3dy4bsoacYp90HzM0MwxLsPZAa-P10pRVw3jf6GbSD_legdWjEL2PUqpOHOA2" type="text/javascript"></script>
+
+<script src="/ScriptResource.axd?d=rSR-mQQ1CpRSGwvYujk4uI7Qj31quF1brsZKgPUueIuEuJTnbL1mODH-5CX8zQtqT1C7Y2ax-iPZR4UDEqV_oJIzKfLafwgMpoI_RdT_3CZTqRXTuy4LVpDv6RiGBFAPGmtYY41n6PoqEVjiuMoGdCHhn5I1" type="text/javascript"></script>
+
+<script src="/ScriptResource.axd?d=cjN3kP5I9MXunJCFrVpIoiTdSx32mMR7IUJxwcWwFPCueqQDsMIV8ygnxXDf_BXKMippv9_zaK7zesJWaGvWUMWU8BOesjGdh_6ZaZdkDmQqYeA4nTHvyZ0FUveKBGDIJZTKiw2" type="text/javascript"></script>
+
+<script src="http://redir.adap.tv/redir/javascript/vpaid.js" type="text/javascript"></script>
+
+<script src="http://redir.adap.tv/redir/javascript/adaptvAdPlayer.js" type="text/javascript"></script>
+
+<script src="/js/flot/excanvas.min.js" type="text/javascript"></script>
+
+<script src="/js/flot/jquery.flot.js" type="text/javascript"></script>
+
+<script src="js/CreateSetPanel.js" type="text/javascript"></script>
+
+<script src="js/jquery-ui-1.7.3.custom.min.js" type="text/javascript"></script>
+
+<script src="js/ui.core.js" type="text/javascript"></script>
+
+<script src="js/Item.js" type="text/javascript"></script>
+
+<script src="js/jquery-extensions.js" type="text/javascript"></script>
+
+<script src="/js/jPlayer/1.2.0/jquery.jplayer.min.js" type="text/javascript"></script>
+
+<script src="/ScriptResource.axd?d=LMw6KwXCdU2INQ2r4yHPw62twfYP8wM0LscHFjQtpCfDrAaNFaody4DE2-DSXcdgQbHqs93sIZGWyXsj8cBN5Z5CgKqMgfZyfgNk9zNVukhrL0NRt-3Haklavq4hx-14Y8G-SA2" type="text/javascript"></script>
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+function WebForm_OnSubmit() {
+
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+
+return true;
+
+}
+
+//]]>
+
+</script>
+
+
+
+<div>
+
+
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWtQECw8T+gwUClvyf/AwClfyf/AwC/9zfzAwC4NzfzAwC4dzfzAwC4tzfzAwC49zfzAwC5NzfzAwC5dzfzAwC5tzfzAwC99zfzAwC+NzfzAwC4NyfzwwC4NyTzwwC4NyXzwwC0Kb5iwECz6b5iwECzqb5iwECzab5iwECzKb5iwECy6b5iwECyqb5iwECyab5iwEC2Kb5iwEC16b5iwECz6a5iAECz6a1iAECz6axiAECz6aNiAECz6aJiAECz6aFiAECz6aBiAECz6adiAECz6bZiwECz6bViwECzqa5iAECzqa1iAECzqaxiAECzqaNiAECzqaJiAECzqaFiAECzqaBiAECzqadiAECzqbZiwECzqbViwECzaa5iAECzaa1iAECk978wg4CwKaVygoCwKaB7QMCwKa9sAgCq5+PqQ8Cq5+7zAcCq5+XpQECq5+DyAkCq5+/kwYCq5+rtg8Cq5/H2gcCq5/z/QwCq5/vgAUCq5+bqwIC7/zy3QcC7/zu4AwC7/za2QkC7/z2/AYC7/zihw8C7/yeqgQC7/yKzQwC7/ymkAUC7/zStAIC7/zO3woC0tXQ8AkC0tXMmwYC0tW48wMC0tXUlwgC0tXAugEC0tX83QkC0tXo4AYC0tWEiw8C0tWwrgQC0tWs8QwC5b+QtgYC5b+M2Q4C5b/4sggC5b+UVQLlv4D4CQLlv7yDBgLlv6imDwLlv8TKBwLlv/DtDALlv+ywBQLIlP6pCALIlOpMAsiUxqUCAsiU8sgKAsiU7pMDAsiUmrYIAsiUtlkCyJSi/AkCyJTegAYCyJTKqw8Cs43c3A0Cs43I5woCs42k3wcCs43Q4wwCs43MhgUCs434qQICs42UzAoCs42AlwMCs428uggCs42oXQKW4rr2BwKW4taaDAKW4oLyCQKW4r6VBgKW4qq4DwKW4sbcBwKW4vLnDAKW4u6KBQKW4pqtAgKW4rbwCgL52JjpCQL52LSMBgL52ODlAwL52JyICAL52IhTAvnYpPYJAvnY0JoGAvnYzL0PAvnY+MAHAvnYlOsMAtyx55wDAtyxk6cIAtyxz5gFAtyx+6MCAtyxl8YKAtyxg+kDAtyxv4wIAtyxq1cC3LHH+wkC3LHzngYCx6bFtwUCx6bx2g0Cx6atsg8Cx6bZ1gcCx6b1+QwCx6bhnAUCx6adpwICx6al7QMC1qP7/QMCyYC+4Q4C8Jb0qwwCxPPimAUC0e2+wA0C4vHSrQwClYPvzQkCpamYiQwCt/qhzQYCkoz34Q4CtNCzhA0C5tqK+gcC4NK45Q8Cpojc7QsCj5TPhQ8Csr6kpQYCxIystAYC5ZSetQYCkb7nrgkC9tTJmQ8C78a0rwwC1N2WmgIC/eLegwIC4vnA7gcC2+urhAUCwIKO7woC2oDdtA4CpqSmvAUCkqTfsAUCzJuw4g4CtZ3Phg8g5To9q0o3G0wgIjCQIel93iL6Og==" />
+
+</div>
+
+    <div id="fb-root">
+
+    </div>
+
+    <script type="text/javascript">
+
+//<![CDATA[
+
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', 'aspnetForm', ['tctl00$cphRoblox$CommentsPane$CommentsUpdatePanel',''], [], [], 90, 'ctl00');
+
+//]]>
+
+</script>
+
+
+
+    <script type="text/javascript">
+
+        if (typeof roblox_domains === 'undefined')
+
+            roblox_domains = {};
+
+
+
+        roblox_domains.www = 'http://www.roblox.com';
+
+    </script>
+
+    
+
+        <!-- Used for execution that must happen before page load -->
+
+    
+
+    
+
+    <script type="text/javascript">
+
+        $(function () {
+
+            $('.tooltip').tipsy();
+
+            $('.tooltip-top').tipsy({ gravity: 's' });
+
+            $('.tooltip-right').tipsy({ gravity: 'w' });
+
+            $('.tooltip-left').tipsy({ gravity: 'e' });
+
+            $('.tooltip-bottom').tipsy({ gravity: 'n' });
+
+        });
+
+    </script>
+
+    
+
+    <div id="MasterContainer">
+
+        
+
+
+
+<script type="text/javascript">
+
+EventDrivenPixelManager = new function () {
+
+    this.bound = [];
+
+    this.add = function (eventKey, pixel) {
+
+        this.bound.push(pixel);
+
+        $(document).bind(eventKey, function() { EventDrivenPixelManager.handleEvent(pixel); });
+
+        return this;
+
+    }
+
+    this.handleEvent = function (pixel) {
+
+		$('body').append($(pixel));
+
+    }
+
+}
+
+
+
+$(function(){
+
+    var pixel;
+
+    EventDrivenPixelManager.acqSrc = '';
+
+
+
+    
+
+    
+
+});
+
+</script>
+
+
+
+        
+
+
+
+
+
+    <script type="text/javascript">
+
+        // Deferred loading a la google to prevent blocking during download and execution
+
+        (function () {
+
+            var protocol = 'https:' == document.location.protocol ? "https://ssltracking" : "http://akatracking";
+
+            var scriptFile = 'esearchvisiontracking.js';
+
+            var s = document.createElement('script');
+
+            s.type = 'text/javascript';
+
+            s.async = true;
+
+            s.src = protocol + ".esearchvision.com/esi/" + scriptFile;
+
+            var x = document.getElementsByTagName('script')[0];
+
+            x.parentNode.insertBefore(s, x);
+
+        })();
+
+    </script>
+
+
+
+
+
+<script type="text/javascript">
+
+$(function(){
+
+    function trackReturns() {
+
+	    function dayDiff(d1, d2) {
+
+		    return Math.floor((d1-d2)/86400000);
+
+	    }
+
+
+
+	    var cookieName = 'RBXReturn';
+
+	    var cookieOptions = {expires:9001};
+
+        var cookie = $.getJSONCookie(cookieName);
+
+
+
+	    if (typeof cookie.ts === "undefined" || isNaN(new Date(cookie.ts))) {
+
+		    $.setJSONCookie(cookieName, {ts:new Date().toDateString()}, cookieOptions)
+
+		    return;
+
+	    }
+
+
+
+	    var daysSinceFirstVisit = dayDiff(new Date(), new Date(cookie.ts));
+
+	    if (daysSinceFirstVisit == 1 && typeof cookie.odr === "undefined") {
+
+		    RobloxEventManager.triggerEvent('rbx_evt_generic', { type:'OneDayReturn'});
+
+		    cookie.odr = 1;
+
+	    }
+
+	    if (daysSinceFirstVisit >= 1 && daysSinceFirstVisit <= 7 && typeof cookie.sdr === "undefined") {
+
+		    RobloxEventManager.triggerEvent('rbx_evt_generic', {type: 'SevenDayReturn'});
+
+		    cookie.sdr = 1;
+
+	    }
+
+	
+
+	    $.setJSONCookie(cookieName, cookie, cookieOptions);
+
+    }
+
+
+
+    
+
+    KontagentListener.restUrl = window.location.protocol + "//" + "api.geo.kontagent.net/api/v1/";
+
+    KontagentListener.APIKey = "920472a959b042f782bd267c5567b480";
+
+    KontagentListener.StagingAPIKey = "c3ec679ac27b4f4fb393b5ccd94e7f67";
+
+    try { 
+
+        KontagentListener.StagingEvents = eval("([{'rbx_evt_ftp':'Install%20Success%20Place'},{'rbx_evt_fmp':'Five%20Minute%20Play%20Place'}])");
+
+    }
+
+    catch(ex) {
+
+        KontagentListener.StagingEvents = [];
+
+    }
+
+    KontagentListener.init();
+
+    
+
+    RobloxListener.restUrl = window.location.protocol + "//" + "roblox.com/Game/EventTracker.ashx";
+
+    RobloxListener.init();
+
+    
+
+    GoogleListener.init();
+
+    
+
+    SearchVisionListener.init();
+
+    
+
+    RobloxEventManager.initialize(true);
+
+    RobloxEventManager.triggerEvent('rbx_evt_pageview');
+
+    trackReturns();
+
+    
+
+    RobloxEventManager.registerCookieStoreEvent('rbx_evt_initial_install_start');
+
+    RobloxEventManager.registerCookieStoreEvent('rbx_evt_ftp');
+
+    RobloxEventManager.registerCookieStoreEvent('rbx_evt_initial_install_success');
+
+    RobloxEventManager.registerCookieStoreEvent('rbx_evt_fmp');
+
+    RobloxEventManager.monitorCookieStore();
+
+    setInterval(RobloxEventManager.monitorCookieStore, 5000);
+
+    
+
+
+
+});
+
+</script>
+
+
+
+
+
+        <div id="ctl00_CapturePersonalInfo_CapturePersonalInfoNagScreenContainer">
+
+	
+
+    <div id="CapturePersonalInfoNagScreen" class="modalPopup blueAndWhite" style="display:none;position:relative;width:420px;border:none">
+
+        <div id="ClosePersonalInfoNagScreen" class="simplemodal-close">
+
+            <a id="ctl00_CapturePersonalInfo_A2" class="ImageButton closeBtnCircle_35h" style="cursor:pointer;margin-left:415px;position:absolute;top:-16px;left:-8px"></a>
+
+        </div>
+
+        <div style="text-align:center;padding:20px;">
+
+            <div style="font-size:18px;margin:10px 0"><b>We're missing some information about you.</b></div>
+
+            <div style="margin:10px 0">Enter it to get a better personalized experience on ROBLOX.</div>
+
+            <div style="text-align:left;width:250px;margin:20px auto">
+
+                <div style="margin:10px 0px">
+
+                    Gender:
+
+                    <select name="ctl00$CapturePersonalInfo$GenderDropDown" id="GenderDropDown">
+
+		<option value="2">Male</option>
+
+		<option value="3">Female</option>
+
+
+
+	</select>
+
+                </div>
+
+                <div style="margin:10px 0px">
+
+                    Birthday:
+
+                    <select name="ctl00$CapturePersonalInfo$MonthDropDown" id="MonthDropDown">
+
+		<option value="0" style="font-style:italic;color:#888">Month</option>
+
+		<option value="1">Jan</option>
+
+		<option value="2">Feb</option>
+
+		<option value="3">Mar</option>
+
+		<option value="4">Apr</option>
+
+		<option selected="selected" value="5">May</option>
+
+		<option value="6">Jun</option>
+
+		<option value="7">Jul</option>
+
+		<option value="8">Aug</option>
+
+		<option value="9">Sep</option>
+
+		<option value="10">Oct</option>
+
+		<option value="11">Nov</option>
+
+		<option value="12">Dec</option>
+
+
+
+	</select>
+
+                    <select name="ctl00$CapturePersonalInfo$DayDropDown" id="DayDropDown">
+
+		<option value="0" style="font-style:italic;color:#888">Day</option>
+
+		<option selected="selected" value="1">1</option>
+
+		<option value="2">2</option>
+
+		<option value="3">3</option>
+
+		<option value="4">4</option>
+
+		<option value="5">5</option>
+
+		<option value="6">6</option>
+
+		<option value="7">7</option>
+
+		<option value="8">8</option>
+
+		<option value="9">9</option>
+
+		<option value="10">10</option>
+
+		<option value="11">11</option>
+
+		<option value="12">12</option>
+
+		<option value="13">13</option>
+
+		<option value="14">14</option>
+
+		<option value="15">15</option>
+
+		<option value="16">16</option>
+
+		<option value="17">17</option>
+
+		<option value="18">18</option>
+
+		<option value="19">19</option>
+
+		<option value="20">20</option>
+
+		<option value="21">21</option>
+
+		<option value="22">22</option>
+
+		<option value="23">23</option>
+
+		<option value="24">24</option>
+
+		<option value="25">25</option>
+
+		<option value="26">26</option>
+
+		<option value="27">27</option>
+
+		<option value="28">28</option>
+
+		<option value="29">29</option>
+
+		<option value="30">30</option>
+
+		<option value="31">31</option>
+
+
+
+	</select>
+
+                    <select name="ctl00$CapturePersonalInfo$YearDropDown" id="YearDropDown">
+
+		<option value="0" style="font-style:italic;color:#888">Year</option>
+
+		<option value="2012">2012</option>
+
+		<option value="2011">2011</option>
+
+		<option value="2010">2010</option>
+
+		<option value="2009">2009</option>
+
+		<option value="2008">2008</option>
+
+		<option value="2007">2007</option>
+
+		<option value="2006">2006</option>
+
+		<option value="2005">2005</option>
+
+		<option value="2004">2004</option>
+
+		<option value="2003">2003</option>
+
+		<option value="2002">2002</option>
+
+		<option value="2001">2001</option>
+
+		<option value="2000">2000</option>
+
+		<option value="1999">1999</option>
+
+		<option value="1998">1998</option>
+
+		<option value="1997">1997</option>
+
+		<option value="1996">1996</option>
+
+		<option value="1995">1995</option>
+
+		<option value="1994">1994</option>
+
+		<option value="1993">1993</option>
+
+		<option value="1992">1992</option>
+
+		<option value="1991">1991</option>
+
+		<option value="1990">1990</option>
+
+		<option value="1989">1989</option>
+
+		<option value="1988">1988</option>
+
+		<option value="1987">1987</option>
+
+		<option value="1986">1986</option>
+
+		<option value="1985">1985</option>
+
+		<option value="1984">1984</option>
+
+		<option value="1983">1983</option>
+
+		<option value="1982">1982</option>
+
+		<option value="1981">1981</option>
+
+		<option value="1980">1980</option>
+
+		<option value="1979">1979</option>
+
+		<option value="1978">1978</option>
+
+		<option value="1977">1977</option>
+
+		<option value="1976">1976</option>
+
+		<option value="1975">1975</option>
+
+		<option value="1974">1974</option>
+
+		<option value="1973">1973</option>
+
+		<option value="1972">1972</option>
+
+		<option value="1971">1971</option>
+
+		<option value="1970">1970</option>
+
+		<option value="1969">1969</option>
+
+		<option value="1968">1968</option>
+
+		<option value="1967">1967</option>
+
+		<option value="1966">1966</option>
+
+		<option value="1965">1965</option>
+
+		<option value="1964">1964</option>
+
+		<option value="1963">1963</option>
+
+		<option value="1962">1962</option>
+
+		<option value="1961">1961</option>
+
+		<option value="1960">1960</option>
+
+		<option value="1959">1959</option>
+
+		<option value="1958">1958</option>
+
+		<option value="1957">1957</option>
+
+		<option value="1956">1956</option>
+
+		<option value="1955">1955</option>
+
+		<option value="1954">1954</option>
+
+		<option value="1953">1953</option>
+
+		<option value="1952">1952</option>
+
+		<option value="1951">1951</option>
+
+		<option value="1950">1950</option>
+
+		<option value="1949">1949</option>
+
+		<option value="1948">1948</option>
+
+		<option value="1947">1947</option>
+
+		<option value="1946">1946</option>
+
+		<option value="1945">1945</option>
+
+		<option value="1944">1944</option>
+
+		<option value="1943">1943</option>
+
+		<option value="1942">1942</option>
+
+		<option value="1941">1941</option>
+
+		<option value="1940">1940</option>
+
+		<option value="1939">1939</option>
+
+		<option value="1938">1938</option>
+
+		<option value="1937">1937</option>
+
+		<option value="1936">1936</option>
+
+		<option value="1935">1935</option>
+
+		<option value="1934">1934</option>
+
+		<option value="1933">1933</option>
+
+		<option value="1932">1932</option>
+
+		<option value="1931">1931</option>
+
+		<option value="1930">1930</option>
+
+		<option value="1929">1929</option>
+
+		<option value="1928">1928</option>
+
+		<option value="1927">1927</option>
+
+		<option value="1926">1926</option>
+
+		<option value="1925">1925</option>
+
+		<option value="1924">1924</option>
+
+		<option value="1923">1923</option>
+
+		<option value="1922">1922</option>
+
+		<option value="1921">1921</option>
+
+		<option value="1920">1920</option>
+
+		<option value="1919">1919</option>
+
+		<option value="1918">1918</option>
+
+		<option value="1917">1917</option>
+
+		<option value="1916">1916</option>
+
+		<option value="1915">1915</option>
+
+		<option value="1914">1914</option>
+
+		<option value="1913">1913</option>
+
+		<option selected="selected" value="1911">1911</option>
+
+
+
+	</select>
+
+                </div>
+
+                <div id="InvalidDate" style="text-align:center;display:none;color:red">Please enter a valid date.</div>
+
+            </div>
+
+            <div style="margin:10px 0">
+
+                <a id="UpdateInfoButton" class="GreenButton"><span>Submit</span></a>
+
+                
+
+                <a id="DismissInfoNagScreen" style="color:green;cursor:pointer;margin-left:10px">Remind me later</a>
+
+                
+
+            </div>     
+
+        </div>  
+
+    </div>
+
+
+
+    <script type="text/javascript">
+
+        $(function() {
+
+            var showPrompt = false;
+
+            var infoRequired = false;
+
+
+
+            var CapturePersonalInfoNagScreen = {};
+
+            CapturePersonalInfoNagScreen.close = function (logout) {
+
+                $.modal.close("#CapturePersonalInfoNagScreen");
+
+                if (logout) {
+
+                    window.location = '/Login/Logout.aspx';
+
+                }
+
+            };
+
+            CapturePersonalInfoNagScreen.init = function () {
+
+                var modalProperties = { escClose: false, opacity: 80, overlayCss: { backgroundColor: "#000"} };
+
+                if (showPrompt) {
+
+                    $("#CapturePersonalInfoNagScreen").modal(modalProperties);
+
+                }
+
+            };
+
+
+
+            $('#ClosePersonalInfoNagScreen').click(function () {
+
+                CapturePersonalInfoNagScreen.close(infoRequired);
+
+            });
+
+
+
+            $('#DismissInfoNagScreen').click(function () {
+
+                CapturePersonalInfoNagScreen.close(infoRequired);
+
+            });
+
+
+
+            $('#UpdateInfoButton').click(function () {
+
+                var gender = parseInt($('#GenderDropDown option:selected').val());
+
+                var year = parseInt($('#YearDropDown option:selected').val());
+
+                var month = parseInt($('#MonthDropDown option:selected').val());
+
+                var day = parseInt($('#DayDropDown option:selected').val());
+
+
+
+                if (year > 0 && month > 0 && day > 0 && day <= new Date(year, month, 0).getDate()) {
+
+                    $.ajax({
+
+                        type: "POST",
+
+                        url: "/Services/UserCheck.asmx/UpdatePersonalInfo",
+
+                        data: JSON.stringify({ genderId : gender, birthYear : year, birthMonth : month, birthDay : day }),
+
+                        contentType: "application/json; charset=utf-8"
+
+                    });
+
+            
+
+                    CapturePersonalInfoNagScreen.close();
+
+                }
+
+                else {
+
+                    $('#InvalidDate').show();
+
+                }
+
+            });
+
+
+
+            CapturePersonalInfoNagScreen.init();
+
+        });
+
+    </script>
+
+
+
+</div>
+
+
+
+        <script type="text/javascript">Roblox.FixedUI.gutterAdsEnabled=false;</script>
+
+        
+
+
+
+        
+
+        
+
+        <div id="Container">
+
+            
+
+        
+
+        <div id="SmallHeaderContainer">
+
+        
+
+            
+
+                <div id="Banner">
+
+                    <div class="BannerCenterContainer">
+
+                        <a href="/Default.aspx" class="btn-logo"></a>
+
+                        
+
+
+
+<div id="AuthenticatedUserName">    
+
+    <span id="ctl00_cphBanner_cphBannerHeader_BannerOptionsLoginView_BannerOptions_Authenticated_lnLoginName" class="loginSpan">Hi callofdutymw2roach </span>
+
+    
+
+    <img id="over13icon" src=http://imagesak.roblox.com/8a56c21673c83085e61615d212e7d48a.png title="This is a 13+ account." style="float: left;padding-left: 7px;padding-top: 1px;"/>
+
+    <script type="text/javascript">
+
+        $(function () {
+
+            $('#over13icon').tipsy({ gravity: 'n' });
+
+        });
+
+    </script>
+
+    
+
+</div>
+
+
+
+                        
+
+<div id="Alerts">
+
+    
+
+        
+
+
+
+<div id="ctl00_cphBanner_cphBannerHeader_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_AlertSpacePanel">
+
+	
+
+    <div class="SmallHeaderAlertSpaceLeft">
+
+        <div class="AlertSpace">
+
+            <div class="MessageAlert">
+
+                <div class="icons message_icon">
+
+                </div>
+
+                <a id="ctl00_cphBanner_cphBannerHeader_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_MessageAlertCaptionHyperLink" class="MessageAlertCaption tooltip-bottom" title="Inbox" href="My/Messages.aspx">0</a>
+
+            </div>
+
+            <div class="FriendsAlert">
+
+                <div class="icons friends_icon">
+
+                </div>
+
+                <a id="ctl00_cphBanner_cphBannerHeader_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_FriendsAlertCaptionHyperLink" class="FriendsAlertCaption tooltip-bottom" title="Friend Requests" href="My/EditFriends.aspx">0</a>
+
+            </div>
+
+            <div class="RobuxAlert">
+
+                <div class="icons robux_icon">
+
+                </div>
+
+                <a id="ctl00_cphBanner_cphBannerHeader_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_RobuxAlertCaptionHyperLink" class="RobuxAlertCaption tooltip-bottom" title="ROBUX" href="My/AccountBalance.aspx">2</a>
+
+            </div>
+
+            <div class="TicketsAlert">
+
+                <div class="icons tickets_icon">
+
+                </div>
+
+                <a id="ctl00_cphBanner_cphBannerHeader_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_TicketsAlertCaptionHyperLink" class="TicketsAlertCaption tooltip-bottom" title="Tickets" href="My/AccountBalance.aspx">373</a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+</div>
+
+
+
+    
+
+</div>
+
+<div id="AuthenticationButton">
+
+    <span id="AuthenticationBannerSpan" style="background:none;">	
+
+         <a id="ctl00_cphBanner_cphBannerHeader_BannerAlertsLoginView_BannerAlerts_Authenticated_lsLoginStatus" class="logoutButton" href="javascript:__doPostBack(&#39;ctl00$cphBanner$cphBannerHeader$BannerAlertsLoginView$BannerAlerts_Authenticated$lsLoginStatus$ctl00&#39;,&#39;&#39;)">Logout</a>
+
+	</span>
+
+</div>
+
+
+
+                    </div>
+
+                </div>
+
+        </div>
+
+        <div id="Header" class="iframeHeader" style="position:static;width:100%;">
+
+            
+
+
+
+<script type="text/javascript" language="javascript">
+
+    function toggleDropDownNav()
+
+    {
+
+        if ($(".dropdownnavcontainer:visible").size() > 0)
+
+        {
+
+            $(".dropdownnavcontainer").hide();
+
+            $("#gamesMenuToggle").css("background-position", "0 0");
+
+        }
+
+        else
+
+        {
+
+            $(".dropdownnavcontainer").show();
+
+            $("#gamesMenuToggle").css("background-position", "0 -6px");
+
+        }
+
+    }
+
+</script>
+
+
+
+<div id="Nav" class="Navigation">
+
+    <div class="dropdownnavcontainer">
+
+        <div class="dropdownmainnav" style="z-index:1023;">
+
+            
+
+                     <a href='/all-games' 
+
+                        title="All" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img Classic_png"></span>All
+
+                    </a>
+
+                
+
+                     <a href='/town-and-city-games' 
+
+                        title="Town and City" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img City_png"></span>Town and City
+
+                    </a>
+
+                
+
+                     <a href='/medieval-games' 
+
+                        title="Fantasy" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img Castle_png"></span>Fantasy
+
+                    </a>
+
+                
+
+                     <a href='/sci-fi-games' 
+
+                        title="Sci-Fi" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img SciFi_png"></span>Sci-Fi
+
+                    </a>
+
+                
+
+                     <a href='/ninja-games' 
+
+                        title="Ninja" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img Ninja_png"></span>Ninja
+
+                    </a>
+
+                
+
+                     <a href='/scary-games' 
+
+                        title="Scary" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img Cthulu_png"></span>Scary
+
+                    </a>
+
+                
+
+                     <a href='/pirate-games' 
+
+                        title="Pirate" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img Pirate_png"></span>Pirate
+
+                    </a>
+
+                
+
+                     <a href='/adventure-games' 
+
+                        title="Adventure" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img Adventure_png"></span>Adventure
+
+                    </a>
+
+                
+
+                     <a href='/sports-games' 
+
+                        title="Sports" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img Sports_png"></span>Sports
+
+                    </a>
+
+                
+
+                     <a href='/funny-games' 
+
+                        title="Funny" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img LOL_png"></span>Funny
+
+                    </a>
+
+                
+
+                     <a href='/wild-west-cowboy-games' 
+
+                        title="Wild West" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img WildWest_png"></span>Wild West
+
+                    </a>
+
+                
+
+                     <a href='/war-games' 
+
+                        title="War" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img ModernMilitary_png"></span>War
+
+                    </a>
+
+                
+
+                     <a href='/skatepark-games' 
+
+                        title="Skate Park" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img Skatepark_png"></span>Skate Park
+
+                    </a>
+
+                
+
+                     <a href='/gametutorials-games' 
+
+                        title="Tutorial" 
+
+                        style="width: 50%; text-align: left; font-size: 15px;" ref="dropdown-games">
+
+                            <span class="img Tutorial_gif"></span>Tutorial
+
+                    </a>
+
+                
+
+        </div>
+
+
+
+        <div class="dropdownmainnav" style="width:145px;border-left:0px;z-index:1023">
+
+            <a href="/games.aspx" ref="dropdown-mostpopular" style="font-size:15px; width: 100%; text-align:center;"><b>Most Popular</b></a><br />
+
+            <a href="/games.aspx?t=PastWeek&m=TopFavorites" ref="dropdown-topfavorite" style="font-size:15px; width: 100%; text-align:center;">Top Favorites</a><br />
+
+            <a href="/games.aspx?m=Featured" ref="dropdown-featured" style="font-size:15px; width: 100%; text-align:center;">Featured Games</a><br />
+
+            <a href="/Catalog.aspx?m=TopFavorites&c=9&t=AllTime&d=All&q=" ref="dropdown-search" style="font-size:15px; width: 100%; text-align:center;">Search Games</a>
+
+        </div>
+
+    </div>
+
+    <ul id="ctl00_cphBanner_cphBannerHeader_Menu_MenuUL">
+
+        
+
+                <li>
+
+                    <a href="/My/Home.aspx" style="" ref="nav-myroblox">My ROBLOX</a>
+
+                </li>
+
+            
+
+        
+
+        <li class="gamesLink"><a id="hlGames" href="/Games.aspx" style="" title="Games" ref="nav-games">Games</a> <a id="gamesMenuToggle" onclick='toggleDropDownNav();' style="padding:0 2px;cursor:pointer;border:none;background:url(/images/topNav_arrow_white.png) no-repeat;height:6px;width:10px;display:inline-block;*margin-bottom:5px;"></a></li>
+
+        <li><a id="hlCatalog" href="/Catalog.aspx" style="" title="Catalog" ref="nav-catalog">Catalog</a></li>
+
+        <li><a id="hlBrowse" href="/Browse.aspx" style="" title="People" ref="nav-people">People</a></li>
+
+        <li><a id="hlBuildersClub" href="/Upgrades/BuildersClubMemberships.aspx" style="" title="Builders Club" ref="nav-buildersclub">Builders Club</a></li>
+
+        <li id="ctl00_cphBanner_cphBannerHeader_Menu_ContestsMenuTab"><a id="hlContests" href="/Contests/" style="" title="Contests" ref="nav-contests">Contests</a></li>
+
+        <li><a id="hlForum" onclick="" href="/Forum/Default.aspx" style="" title="Forum" ref="nav-forum">Forum</a></li>
+
+        <li><a id="hlNews" href="http://blog.roblox.com" title="Blog" ref="nav-news">Blog</a></li>
+
+        <li><a id="hlHelp" href="/Help/Builderman.aspx" style="" title="Help" ref="nav-help">Help</a></li>
+
+    </ul>
+
+</div>
+
+
+
+        </div>
+
+        </div>
+
+    
+
+        
+
+
+
+        
+
+<div id="pluginObjDiv" style="height: 0px; width:1px;visibility:hidden;"></div>
+
+<iframe id="downloadInstallerIFrame" style="visibility:hidden; height: 0px; width:1px;position:absolute;"></iframe>
+
+
+
+<div id="InstallationInstructions"  class="modalPopup blueAndWhite" style="display: none;overflow:hidden;" >
+
+    <a id="CancelButton2" onclick="return Roblox.Client._onCancel();" class="ImageButton closeBtnCircle_35h ABCloseCircle"></a>
+
+    <div style="padding-bottom: 10px; text-align:center;">
+
+        
+
+                <img class="InstallInstructionsImage" modalwidth="597" delaysrc="http://imagesak.roblox.com/ed0d14e6d52d6aebb75371710c7e21c9.jpg" alt="Installation Instructions"/><br /><br />
+
+            
+
+    </div>
+
+</div>
+
+<script type="text/javascript" language="javascript">
+
+    Roblox.Client.runInstallABTest = function () {
+
+        /**/
+
+    }
+
+</script>
+
+        
+
+
+
+<div ID="PlaceLauncherStatusPanel" style="display: none; width: 300px;">
+
+    <div class="modalPopup blueAndWhite PlaceLauncherModal" style="min-height: 160px;">
+
+        <div id="Spinner" class="Spinner" style="margin:0 1em 1em 0; padding:20px 0px;">
+
+            <img src="http://imagesak.roblox.com/e998fb4c03e8c2e30792f2f3436e9416.gif" alt="Progress" /></div>
+
+        <div id="status" style="min-height:40px; text-align:center; margin: 5px 20px;">
+
+            <div id="Starting" class="PlaceLauncherStatus MadStatusStarting" style="display:block">
+
+                Starting Roblox...
+
+                </div>
+
+            <div id="Waiting" class="PlaceLauncherStatus MadStatusField">Connecting to Players...</div>
+
+            <div id="StatusBackBuffer" class="PlaceLauncherStatus PlaceLauncherStatusBackBuffer MadStatusBackBuffer"></div>
+
+        </div>
+
+       <div style="text-align: center; margin-top: 1em;">
+
+            <input type="button" class="Button CancelPlaceLauncherButton" value="Cancel" />
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+
+
+<div id="videoPrerollPanel" style="display:none;">
+
+    <div id="videoPrerollTitleDiv">
+
+        Gameplay sponsored by:
+
+    </div>
+
+    <div id="videoPrerollMainDiv"></div>
+
+    <div id="videoPrerollCompanionAd"></div>
+
+    <div id="videoPrerollLoadingDiv">
+
+        Loading <span id="videoPrerollLoadingPercent">0%</span> - <span id="videoPrerollMadStatus" class="MadStatusField">Starting game...</span><span id="videoPrerollMadStatusBackBuffer" class="MadStatusBackBuffer"></span>
+
+        <div id="videoPrerollLoadingBar">
+
+            <div id="videoPrerollLoadingBarCompleted">
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="videoPrerollJoinBC">
+
+        <span>Want to get rid of these ads?</span>
+
+        <a href="/Upgrades/BuildersClubMemberships.aspx?ref=vpr" target="_blank" id="videoPrerollJoinBCButton"></a>
+
+    </div>
+
+</div>
+
+<script type="text/javascript">
+
+    Roblox.VideoPreRoll.showVideoPreRoll = false;
+
+    Roblox.VideoPreRoll.loadingBarMaxTime = 30000;
+
+    Roblox.VideoPreRoll.videoOptions.key = "robloxcorporation";
+
+    Roblox.VideoPreRoll.videoOptions.categories = "NonBC,IsLoggedIn,Age13OrOver";
+
+    
+
+    Roblox.VideoPreRoll.videoOptions.id = "games";
+
+    
+
+    Roblox.VideoPreRoll.videoLoadingTimeout = 11000;
+
+    Roblox.VideoPreRoll.videoPlayingTimeout = 23000;
+
+    
+
+    
+
+    Roblox.VideoPreRoll.videoLogNote = "";
+
+    Roblox.VideoPreRoll.logsEnabled = true;
+
+    Roblox.VideoPreRoll.excludedPlaceIds = "67571727,70301873,70301931";
+
+    
+
+    Roblox.VideoPreRoll.specificAdOnPlacePageEnabled = true;
+
+    Roblox.VideoPreRoll.specificAdOnPlacePageId = 74885275;
+
+    Roblox.VideoPreRoll.specificAdOnPlacePageCategory = "stooges";
+
+    
+
+    $(Roblox.VideoPreRoll.checkEligibility());
+
+</script>
+
+
+
+
+
+
+
+
+
+        <div class="forceSpace">&nbsp;</div>
+
+
+
+        
+
+    <div id="AdvertisingLeaderboard">
+
+        
+
+            <iframe id="ctl00_cphBanner_cphBannerAd_ItemBannerAd_AsyncUserAdIFrame" allowtransparency="true" frameborder="0" scrolling="no" height="90" src="/Ads/IFrameUserAdContent.aspx?userAdTypeId=1&amp;forceAdToShow=False" width="828"></iframe>
+
+        
+
+
+
+    </div>
+
+
+
+
+
+        <noscript><div class="SystemAlert"><div class="SystemAlertText">Please enable Javascript to use all the features on this site.</div></div></noscript>
+
+        
+
+        
+
+        <div id="Body">
+
+            
+
+    <div id="ItemContainer">
+
+        <div class="StandardBoxHeader" style="width: 709px;">
+
+            <span class="item-header">
+
+                <div id="ctl00_cphRoblox_FavStar" cssclass="favorited">
+
+                </div>
+
+                Sci-Fi MedVac 4300
+
+            </span>
+
+        </div>
+
+        <div id="Item" class="StandardBox" style="width: 709px; background-image: none;">
+
+            <div id="Details">
+
+                
+
+                        
+
+                        <div id="assetContainer">
+
+                            <div id="Thumbnail">
+
+                                <a id="ctl00_cphRoblox_AssetThumbnailImage" disabled="disabled" title="Sci-Fi MedVac 4300" onclick="return false" style="display:inline-block;height:420px;width:420px;"><img src="http://t7ak.roblox.com/2039926edff193e42fca0d6462e2a01e" height="420" width="420" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Sci-Fi MedVac 4300" /></a>
+
+                                
+
+                                
+
+                            </div>
+
+                            <a id="ctl00_cphRoblox_AddRemoveFavoriteLink" class="AddRemoveFavorite" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$AddRemoveFavoriteLink&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))" style="">Add to Favorites</a>
+
+                            
+
+                        </div>
+
+                    
+
+                <!-- details -->
+
+                <div id="Summary" style="float: right;">
+
+                    <h3>
+
+                        ROBLOX Gear
+
+                    </h3>
+
+                    <div>
+
+                        <b>
+
+                            </b>
+
+                        
+
+                        
+
+                        <div id="ctl00_cphRoblox_RobuxPurchasePanel">
+
+                            <div id="RobuxPurchase">
+
+                                
+
+                                <div id="PriceInRobux">
+
+                                    R$: 300
+
+                                </div>
+
+                                <div id="BuyWithRobux">
+
+                                    <a id="ctl00_cphRoblox_PurchaseWithRobuxButton" class="Button PurchaseButton" original-title="You already own this item." href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$PurchaseWithRobuxButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Buy with R$</a>
+
+                                    
+
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        
+
+                        <div class="clear">
+
+                        </div>
+
+                    </div>
+
+                    <!-- timer -->
+
+                    
+
+                        
+
+                    <div id="Creator" class="Creator section">
+
+                        <div class="Avatar">
+
+                            
+
+                            <a id="ctl00_cphRoblox_AvatarImage" class="tooltip-right" title="ROBLOX" href="/User.aspx?ID=1" style="display:inline-block;height:100px;width:100px;cursor:pointer;"><img src="http://t2ak.roblox.com/c646982daa8ca466f9f58ff238fb4c7b" height="100" width="100" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="ROBLOX" /><img src="/images/icons/overlay_tbcOnly.png" align="left" style="position:relative;top:-19px;" /></a>
+
+                        </div>
+
+                        <span class="label creator-name">Creator:</span>
+
+                        <a id="ctl00_cphRoblox_CreatorHyperLink" href="User.aspx?ID=1">ROBLOX</a>
+
+                    </div>
+
+                    <div class="item-detail">
+
+                        <div>
+
+                            <span class="label">Created:</span>
+
+                            4/20/2012
+
+                        </div>
+
+                        <div id="LastUpdate">
+
+                            <span class="label">Updated:</span>
+
+                            18 hours ago</div>
+
+                        <div id="Favorited">
+
+                            <span class="label">Favorited:</span>
+
+                            223 times</div>
+
+                        <div id="ctl00_cphRoblox_Sold">
+
+                            <span class="label">Total
+
+                                Sold: 
+
+                            </span>
+
+                            389
+
+                        </div>
+
+                        
+
+                    </div>
+
+                    <div id="GenresDiv" class="box section">
+
+                        <div id="ctl00_cphRoblox_Genres">
+
+	
+
+                            <div class="head label">
+
+                                Genres:</div>
+
+                            <div class="body GenreInfo">
+
+                                
+
+
+
+<div>
+
+    
+
+    
+
+            
+
+        
+
+            
+
+        
+
+            <div id="ctl00_cphRoblox_GenresDisplayTest_AssetGenreRepeater_ctl02_AssetGenreRepeaterPanel" class="AssetGenreRepeater_Container">
+
+		
+
+                <div class="GamesInfoIcon Sci-Fi"></div>
+
+                <div><a href="/sci-fi-games">Sci-Fi</a></div>
+
+            
+
+	</div>
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+    <div style="clear:both;"></div>
+
+</div>
+
+                            </div>
+
+                        
+
+</div>
+
+                    </div>
+
+                    <div id="ctl00_cphRoblox_GearAttributes" class="box section">
+
+	
+
+                        <div style="margin-top: 5px; margin-bottom: 5px;">
+
+                            <div class="head label">
+
+                                Gear Attributes:</div>
+
+                            <div class="body">
+
+                                
+
+
+
+
+
+<div>
+
+    
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            <div id="ctl00_cphRoblox_GearOptionsDisplay_AllowedGearRepeater_ctl04_AllowGearRepeaterPanel" class="AllowedGearRepeater_Container">
+
+		
+
+                <div class="GamesInfoIcon PowerUps"></div>
+
+                <div>Power Up</div>
+
+            
+
+	</div>
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+            
+
+        
+
+    <div style="clear:both;"></div>
+
+</div>
+
+                                <div style="clear:both;"></div>
+
+                            </div>
+
+                        </div>
+
+                    
+
+</div>
+
+                    
+
+                    <div id="ctl00_cphRoblox_DescriptionPanel" class="box section">
+
+	
+
+                        <div class="head label">
+
+                            Description:</div>
+
+                        <pre class="Description body" style="max-height: 200px; overflow-x: hidden;">
+
+Heal yourself and your teammates with this Sci Fi MedVac</pre>
+
+                    
+
+</div>
+
+                    
+
+                        
+
+                    <div class="ReportAbuse">
+
+                        <div id="ctl00_cphRoblox_AbuseReportButton1_AbuseReportPanel" class="ReportAbuse">
+
+	
+
+    <span class="AbuseIcon"><a id="ctl00_cphRoblox_AbuseReportButton1_ReportAbuseIconHyperLink" href="AbuseReport/Asset.aspx?ID=78005082&amp;RedirectUrl=http%3a%2f%2fwww.roblox.com%2fitem.aspx%3fseoname%3dSci-Fi-MedVac-4300%26id%3d78005082"><img src="images/abuse.PNG?v=2" alt="Report Abuse" style="border-width:0px;" /></a></span>
+
+    <span class="AbuseButton"><a id="ctl00_cphRoblox_AbuseReportButton1_ReportAbuseTextHyperLink" href="AbuseReport/Asset.aspx?ID=78005082&amp;RedirectUrl=http%3a%2f%2fwww.roblox.com%2fitem.aspx%3fseoname%3dSci-Fi-MedVac-4300%26id%3d78005082">Report Abuse</a></span>
+
+
+
+</div>
+
+                    </div>
+
+                    
+
+                </div>
+
+                <div id="ctl00_cphRoblox_FBLikeButton_fblike" class="fblike">
+
+         <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+
+         <fb:like href="http://www.roblox.com/item.aspx?seoname=Sci-Fi-MedVac-4300&id=78005082&rbx_source=facebook&rbx_medium=Direct&rbx_campaign=fblike" show_faces="false" width="425" font="arial"></fb:like>
+
+    </div>
+
+     
+
+
+
+                
+
+                
+
+                
+
+                <div class="clear">
+
+                </div>
+
+            </div>
+
+            
+
+            
+
+            <div style="margin-top: 10px;">
+
+                <div>
+
+                    
+
+    <div class="StandardTabWhite"><span>Recommendations</span></div>
+
+        <div class="StandardBoxWhite">
+
+
+
+    <div style="font-size: x-small;">Here are some other Gear that we think you might like.</div>
+
+    <table id="ctl00_cphRoblox_AssetRec_dlAssets" cellspacing="0" align="Center" border="0" style="height:200px;width:600px;border-collapse:collapse;">
+
+	<tr>
+
+		<td>
+
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="True">
+
+                <div class="AssetThumbnail">
+
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl00_AssetThumbnailHyperLink" title="Epicsauce" href="/Epicsauce-item?id=31314931" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="http://t0ak.roblox.com/72a390d78f9e6b752010831ca729bd3d" height="110" width="110" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Epicsauce" /></a>
+
+                </div>
+
+                <div class="AssetDetails">
+
+                    <div class="AssetName">
+
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl00_AssetNameHyperLinkPortrait" href="/Epicsauce-item?id=31314931">Epicsauce</a>
+
+                    </div>
+
+                    <div class="AssetCreator">
+
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl00_CreatorHyperLinkPortrait" href="User.aspx?ID=1">ROBLOX</a></span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </td><td>
+
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="True">
+
+                <div class="AssetThumbnail">
+
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl01_AssetThumbnailHyperLink" title="Sheriff Steve&#39;s Six Shooter" href="/Sheriff-Steves-Six-Shooter-item?id=25317304" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="http://t1ak.roblox.com/1ee2e9708f613c0767fbae2a029a1797" height="110" width="110" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Sheriff Steve&#39;s Six Shooter" /></a>
+
+                </div>
+
+                <div class="AssetDetails">
+
+                    <div class="AssetName">
+
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl01_AssetNameHyperLinkPortrait" href="/Sheriff-Steves-Six-Shooter-item?id=25317304">Sheriff Steve&#39;s Six Shooter</a>
+
+                    </div>
+
+                    <div class="AssetCreator">
+
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl01_CreatorHyperLinkPortrait" href="User.aspx?ID=1">ROBLOX</a></span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </td><td>
+
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="True">
+
+                <div class="AssetThumbnail">
+
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl02_AssetThumbnailHyperLink" title="Digital Green Skateboard" href="/Digital-Green-Skateboard-item?id=23156134" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="http://t6ak.roblox.com/3189006bb041f645abd19956075fc16e" height="110" width="110" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Digital Green Skateboard" /></a>
+
+                </div>
+
+                <div class="AssetDetails">
+
+                    <div class="AssetName">
+
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl02_AssetNameHyperLinkPortrait" href="/Digital-Green-Skateboard-item?id=23156134">Digital Green Skateboard</a>
+
+                    </div>
+
+                    <div class="AssetCreator">
+
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl02_CreatorHyperLinkPortrait" href="User.aspx?ID=1">ROBLOX</a></span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </td>
+
+	</tr><tr>
+
+		<td>
+
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="True">
+
+                <div class="AssetThumbnail">
+
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl03_AssetThumbnailHyperLink" title="Ronin Katana" href="/Ronin-Katana-item?id=12187348" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="http://t1ak.roblox.com/ef363f934edf459c4b1e5266506d61ac" height="110" width="110" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Ronin Katana" /></a>
+
+                </div>
+
+                <div class="AssetDetails">
+
+                    <div class="AssetName">
+
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl03_AssetNameHyperLinkPortrait" href="/Ronin-Katana-item?id=12187348">Ronin Katana</a>
+
+                    </div>
+
+                    <div class="AssetCreator">
+
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl03_CreatorHyperLinkPortrait" href="User.aspx?ID=1">ROBLOX</a></span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </td><td>
+
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="True">
+
+                <div class="AssetThumbnail">
+
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl04_AssetThumbnailHyperLink" title="ROBLOX Best Buy Card" href="/ROBLOX-Best-Buy-Card-item?id=37821008" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="http://t3ak.roblox.com/2a07b945d618565dd5b66203bda70760" height="110" width="110" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="ROBLOX Best Buy Card" /></a>
+
+                </div>
+
+                <div class="AssetDetails">
+
+                    <div class="AssetName">
+
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl04_AssetNameHyperLinkPortrait" href="/ROBLOX-Best-Buy-Card-item?id=37821008">ROBLOX Best Buy Card</a>
+
+                    </div>
+
+                    <div class="AssetCreator">
+
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl04_CreatorHyperLinkPortrait" href="User.aspx?ID=1">ROBLOX</a></span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </td><td>
+
+            <div class="PortraitDiv" style="width: 140px; height: 190px; overflow: hidden;" visible="True">
+
+                <div class="AssetThumbnail">
+
+                    <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl05_AssetThumbnailHyperLink" title="ROBLOX 7-Eleven Card" href="/ROBLOX-7-Eleven-Card-item?id=36042596" style="display:inline-block;height:110px;width:110px;cursor:pointer;"><img src="http://t3ak.roblox.com/2a07b945d618565dd5b66203bda70760" height="110" width="110" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="ROBLOX 7-Eleven Card" /></a>
+
+                </div>
+
+                <div class="AssetDetails">
+
+                    <div class="AssetName">
+
+                        <a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl05_AssetNameHyperLinkPortrait" href="/ROBLOX-7-Eleven-Card-item?id=36042596">ROBLOX 7-Eleven Card</a>
+
+                    </div>
+
+                    <div class="AssetCreator">
+
+                        <span class="Label">Creator:</span> <span class="Detail"><a id="ctl00_cphRoblox_AssetRec_dlAssets_ctl05_CreatorHyperLinkPortrait" href="User.aspx?ID=1">ROBLOX</a></span>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </td>
+
+	</tr>
+
+</table>
+
+    
+
+</div>
+
+
+
+                </div>
+
+            </div>
+
+            <a name="tabRegion">&nbsp;</a>
+
+            <div id="Tabs" style="width: 703px; margin-bottom: 10px">
+
+                <ul id="TabHeader" style="height: 30px; list-style: none; margin-left: 0px; margin-bottom: 0px; padding-left: 0px">
+
+                    
+
+                      <li id="CommentaryTabHeader" class="StandardTabGray ItemTabs">
+
+                                                <span><a id="CommentaryLink" href="#CommentaryTab" style="font-size: 16px; font-family: Arial, Helvetica, sans-serif;">
+
+                                                    Commentary</a></span></li>
+
+                </ul>
+
+                <div id="UserSalesTab" class="StandardBoxGray" style="display: none">
+
+                    
+
+                    
+
+                            Sorry, no one is privately selling this item at the moment.
+
+                        
+
+                    <span id="ctl00_cphRoblox_pgItemsForResale"><a disabled="disabled">First</a>&nbsp;<a disabled="disabled">Last</a>&nbsp;<a disabled="disabled">Previous</a>&nbsp;<a disabled="disabled">Next</a>&nbsp;</span>
+
+                </div>
+
+                <div id="ScriptReviewTab" class="StandardBoxGray" style="display: none">
+
+                    
+
+                </div>
+
+                <div id="CommentaryTab" class="StandardBoxGray" style="display:none;color: Black">
+
+                    <div id="ctl00_cphRoblox_CommentsPane_CommentsUpdatePanel">
+
+	
+
+        <div class="CommentsContainer">
+
+            <a id="ctl00_cphRoblox_CommentsPane_LoadCommentsButton" class="GreenButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$CommentsPane$LoadCommentsButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Load comments (1227)</span></a>
+
+            
+
+            
+
+            <div id="ctl00_cphRoblox_CommentsPane_PostAComment" class="PostAComment">
+
+                <h3>Comment on this Gear</h3>
+
+                
+
+                <div class="CommentText">
+
+                    <textarea name="ctl00$cphRoblox$CommentsPane$NewCommentTextBox" id="ctl00_cphRoblox_CommentsPane_NewCommentTextBox" class="MultilineTextBox" rows="5" onkeydown="limitText(this,200);" style="margin-bottom: 0px"></textarea>
+
+                    <p id="CharsRemaining"></p>    
+
+                </div>
+
+                <div class="Buttons"><a id="ctl00_cphRoblox_CommentsPane_NewCommentButton" class="Button" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$CommentsPane$NewCommentButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Post Comment</a></div>
+
+            </div>
+
+        </div>
+
+        <script type="text/javascript" language="javascript">
+
+            function limitText(limitField, limitNum)
+
+            {
+
+                if (limitField.value.length > limitNum) 
+
+                {
+
+                    limitField.value = limitField.value.substring(0, limitNum);
+
+                }
+
+                $('#CharsRemaining').html(Math.max(0, Math.min(200, limitNum - limitField.value.length)) + " characters remaining");
+
+            }
+
+        </script>   
+
+    
+
+</div>
+
+
+
+                </div>
+
+            </div>
+
+            <style>
+
+                .ui-tabs-hide
+
+                {
+
+                    display: none;
+
+                }
+
+            </style>
+
+            
+
+            <div id="FreeGames">
+
+                <span><b>Other free games and items:</b></span><ul class='freegames' style='list-style: none; text-align: center;'><li style='display: inline; margin-right: 10px;'><a href='/imagesCAEQC5R4-item?id=78004982' title='Free Games: imagesCAEQC5R4'>imagesCAEQC5R4</a></li><li style='display: inline; margin-right: 10px;'><a href='/for-me-item?id=78005072' title='Free Games: for me'>for me</a></li><li style='display: inline; margin-right: 10px;'><a href='/shockingaaron111s-Place-place?id=78005081' title='Free Games: shockingaaron111's Place'>shockingaaron111's Place</a></li><li style='display: inline; margin-right: 10px;'><a href='/semik3s-Place-place?id=78005083' title='Free Games: semik3's Place'>semik3's Place</a></li><li style='display: inline; margin-right: 10px;'><a href='/MegaPikachu25s-Place-place?id=78005092' title='Free Games: MegaPikachu25's Place'>MegaPikachu25's Place</a></li><li style='display: inline; margin-right: 10px;'><a href='/Bierk-Custom-item?id=78005182' title='Free Games: Bierk Custom'>Bierk Custom</a></li></ul><span><b>Other game genres you may like:</b></span><ul class='freegames' style='list-style: none; text-align: center;'><li style='display: inline; margin-right: 10px;'><a href='sports-games' title='Sports games'>Sports games</a></li><li style='display: inline; margin-right: 10px;'><a href='funny-games' title='Funny games'>Funny games</a></li><li style='display: inline; margin-right: 10px;'><a href='wild-west-cowboy-games' title='Wild West games'>Wild West games</a></li><li style='display: inline; margin-right: 10px;'><a href='war-games' title='War games'>War games</a></li></ul></div>
+
+        </div>
+
+        <div class="Ads_WideSkyscraper">
+
+            
+
+            <iframe id="ctl00_cphRoblox_adsWideSkyscraper_AsyncUserAdIFrame" allowtransparency="true" frameborder="0" scrolling="no" height="612" src="/Ads/IFrameUserAdContent.aspx?userAdTypeId=2&amp;forceAdToShow=False" width="160"></iframe>
+
+        
+
+
+
+        </div>
+
+        <div class="clear">
+
+        </div>
+
+    </div>
+
+    <div id="ProcessPurchaseFreeView" class="modalPopup blueAndWhite" style="width: 300px;
+
+        min-height: 50px; display: none; position: absolute">
+
+        <div id="Processing_Free" style="margin: 15px auto; text-align: center; vertical-align: middle;">
+
+            <img id="ctl00_cphRoblox_ProcessingFreePurchaseIconImage" src="images/ProgressIndicator2.gif" alt="Processing..." align="middle" style="border-width:0px;" />&nbsp&nbsp;
+
+            Processing transaction ...
+
+        </div>
+
+    </div>
+
+    <div id="PurchaseWithRobuxVerificationView" class="modalPopup blueAndWhite" style="width: 395px;
+
+        min-height: 100px; display: none; position: absolute">
+
+        <div id="ctl00_cphRoblox_Div7" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 400px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Purchase
+
+            Item:
+
+        </div>
+
+        <div id="ctl00_cphRoblox_VerifyPurchase_Robux" style="margin: 0px 10px 0px 10px; text-align: center; font-size: 14px">
+
+            <p><b>
+
+                Would you like to
+
+                purchase
+
+                Gear
+
+                "Sci-Fi MedVac 4300" from
+
+                ROBLOX
+
+                for
+
+                R$: 300?</b></p>
+
+        </div>
+
+        <div>
+
+            <a id="ctl00_cphRoblox_ProceedWithRobuxPurchaseButton" class="ImageButton btn-buynow" onclick="ProcessPurchaseRobuxViewOpen()"></a>
+
+            <input type="submit" name="ctl00$cphRoblox$Button3" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$Button3&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_cphRoblox_Button3" style="display: none;" />
+
+        </div>
+
+        <div style="padding-top: 10px; text-align: center">
+
+            <a onclick="ModalClose(&#39;PurchaseWithRobuxVerificationView&#39;);" id="ctl00_cphRoblox_CancelRobuxPurchaseButton" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$CancelRobuxPurchaseButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+        </div>
+
+        <div style="text-align: center">
+
+            <p>
+
+                Your balance after this transaction will be R$:
+
+                0.</p>
+
+        </div>
+
+    </div>
+
+    <div id="ProcessPurchaseRobuxView" class="modalPopup blueAndWhite" style="width: 300px;
+
+        min-height: 50px; display: none; position: absolute;">
+
+        <div id="Processing_Robux" style="margin: 15px auto; text-align: center; vertical-align: middle;">
+
+            <img id="ctl00_cphRoblox_ProcessingRobuxPurchaseIconImage" src="images/ProgressIndicator2.gif" alt="Processing..." align="middle" style="border-width:0px;" />&nbsp&nbsp;
+
+            Processing transaction ...
+
+        </div>
+
+    </div>
+
+
+
+    
+
+
+
+    <div id="PurchaseWithTicketsVerificationView" class="modalPopup blueAndWhite" style="width: 395px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div13" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 400px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Purchase
+
+            Item:
+
+        </div>
+
+        <div id="ctl00_cphRoblox_VerifyPurchase_Tickets" style="margin: 0px 10px 0px 10px; text-align: center; font-size: 14px">
+
+            <p><b>
+
+                Would you like to
+
+                purchase
+
+                Gear
+
+                "Sci-Fi MedVac 4300" from
+
+                ROBLOX
+
+                for
+
+                ?</b></p>
+
+        </div>
+
+        <div>
+
+            <a id="ctl00_cphRoblox_ProceedWithTicketsPurchaseButton" class="ImageButton btn-buynow" onclick="ProcessPurchaseTicketsViewOpen()"></a>
+
+            <input type="submit" name="ctl00$cphRoblox$Button5" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$Button5&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_cphRoblox_Button5" style="display: none;" />
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div15" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <a onclick="ModalClose(&#39;PurchaseWithTicketsVerificationView&#39;);" id="ctl00_cphRoblox_CancelTicketsPurchaseButton" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$CancelTicketsPurchaseButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+        </div>
+
+        <div style="text-align: center">
+
+            <p>
+
+                Your balance after this transaction will be Tx:
+
+                373.</p>
+
+        </div>
+
+    </div>
+
+    <div id="ProcessPurchaseTicketsView" class="modalPopup blueAndWhite" style="width: 300px;
+
+        min-height: 50px; display: none; position: absolute;">
+
+        <div id="Processing_Tickets" style="margin: 15px auto; text-align: center; vertical-align: middle;">
+
+            <img id="ctl00_cphRoblox_ProcessingTicketsPurchaseIconImage" src="images/ProgressIndicator2.gif" alt="Processing..." align="middle" style="border-width:0px;" />&nbsp&nbsp;
+
+            Processing transaction ...
+
+        </div>
+
+    </div>
+
+    <div id="RenewForFreeVerificationView" class="modalPopup blueAndWhite" style="width: 395px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div16" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 400px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Renew Free Item:
+
+        </div>
+
+        <div id="ctl00_cphRoblox_VerifyRenew_Free" style="margin: 0px 10px 0px 10px;">
+
+            <p>
+
+                Gear
+
+                "Sci-Fi MedVac 4300" from
+
+                ROBLOX
+
+                has expired. Would you like to renew it for free?</p>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div18" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <a onclick="ProcessRenewFreeViewOpen();" id="ctl00_cphRoblox_ProceedWithFreeRenewButton" class="GreenButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$ProceedWithFreeRenewButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">
+
+                <span>Renew It!</span></a>
+
+            <a onclick="ModalClose(&#39;RenewForFreeVerificationView&#39;);" id="ctl00_cphRoblox_CancelFreeRenewButton" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$CancelFreeRenewButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+        </div>
+
+    </div>
+
+    <div id="ProcessRenewFreeView" class="modalPopup blueAndWhite" style="width: 300px;
+
+        min-height: 50px; display: none; position: absolute;">
+
+        <div id="Processing_RenewFree" style="margin: 15px auto; text-align: center; vertical-align: middle;">
+
+            <img id="ctl00_cphRoblox_ProcessingFreeRenewIconImage" src="images/ProgressIndicator2.gif" alt="Processing..." align="middle" style="border-width:0px;" />&nbsp&nbsp; Processing transaction
+
+            ...
+
+        </div>
+
+    </div>
+
+    <div id="RenewWithRobuxVerificationView" class="modalPopup blueAndWhite" style="width: 395px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div19" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 400px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Renew Item:
+
+        </div>
+
+        <div id="ctl00_cphRoblox_VerifyRenew_Robux" style="margin: 0px 10px 0px 10px;">
+
+            <p>
+
+                Gear
+
+                "Sci-Fi MedVac 4300" from
+
+                ROBLOX
+
+                has expired. Would you like to renew it for
+
+                R$: 300?</p>
+
+            <p>
+
+                Your balance after this transaction will be R$:
+
+                0.</p>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div21" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <a onclick="ProcessRenewRobuxViewOpen();" id="ctl00_cphRoblox_ProceedWithRobuxRenewButton" class="GreenButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$ProceedWithRobuxRenewButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">
+
+                <span>Buy now!</span></a>
+
+            <a onclick="ModalClose(&#39;RenewWithRobuxVerificationView&#39;);" id="ctl00_cphRoblox_CancelRobuxRenewButton" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$CancelRobuxRenewButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+        </div>
+
+    </div>
+
+    <div id="ProcessRenewRobuxView" class="modalPopup blueAndWhite" style="width: 300px;
+
+        min-height: 50px; display: none; position: absolute;">
+
+        <div id="Processing_RenewRobux" style="margin: 15px auto; text-align: center; vertical-align: middle;">
+
+            <img id="ctl00_cphRoblox_ProcessingRobuxRenewIconImage" src="images/ProgressIndicator2.gif" alt="Processing..." align="middle" style="border-width:0px;" />&nbsp&nbsp;
+
+            Processing transaction ...
+
+        </div>
+
+    </div>
+
+    <div id="RenewWithTicketsVerificationView" class="modalPopup blueAndWhite" style="width: 395px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div24" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 400px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Renew Item:
+
+        </div>
+
+        <div id="ctl00_cphRoblox_VerifyRenew_Tickets" style="margin: 0px 10px 0px 10px;">
+
+            <p>
+
+                Gear
+
+                "Sci-Fi MedVac 4300" from
+
+                ROBLOX
+
+                has expired. Would you like to renew it for
+
+                ?</p>
+
+            <p>
+
+                Your balance after this transaction will be Tx:
+
+                373.</p>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div26" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <a onclick="ProcessRenewTicketsViewOpen();" id="ctl00_cphRoblox_ProceedWithTicketsRenewButton" class="GreenButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$ProceedWithTicketsRenewButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">
+
+                <span>Renew Now!</span></a>
+
+            <a onclick="ModalClose(&#39;RenewWithTicketsVerificationView&#39;);" id="ctl00_cphRoblox_CancelTicketsRenewButton" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$CancelTicketsRenewButton&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+        </div>
+
+    </div>
+
+    <div id="ProcessRenewTicketsView" class="modalPopup blueAndWhite" style="width: 300px;
+
+        min-height: 50px; display: none; position: absolute;">
+
+        <div id="Processing_RenewTickets" style="margin: 15px auto; text-align: center; vertical-align: middle;">
+
+            <img id="ctl00_cphRoblox_ProcessingTicketsRenewIconImage" src="images/ProgressIndicator2.gif" alt="Processing..." align="middle" style="border-width:0px;" />&nbsp&nbsp;
+
+            Processing transaction ...
+
+        </div>
+
+    </div>
+
+    <div id="PurchaseForFreeConfirmationView" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div22" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Transaction Complete!
+
+        </div>
+
+        <div id="modal_success" class="SuccessBox">
+
+            <img src="http://imagesak.roblox.com/6acd50d6f06cb4801309f2334d6728ab.png" style="display: inline-block" /><span class="BoxTextAligned" style="color: Black; font-size: 14px; display: inline-block; margin-left: 60px; margin-top: -20px">
+
+                    <b>You have successfully added
+
+                    Gear
+
+                    "Sci-Fi MedVac 4300" from
+
+                    ROBLOX
+
+                    to your inventory for free.</b>
+
+            </span>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div23" style="text-align: center;">
+
+            <p><a href="http://www.roblox.com/Catalog.aspx" id="ctl00_cphRoblox_Hyperlink10" class="ImageButton btn-continueshopping"></a></p>
+
+            <p id="ctl00_cphRoblox_ChangeAvatar_Free">
+
+                <a id="ctl00_cphRoblox_Hyperlink3" href="My/Character.aspx" style="font-weight:bold;">Customize Character</a></p>
+
+        </div>
+
+    </div>
+
+    <div id="PurchaseWithRobuxConfirmationView" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div60" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Purchase Complete!
+
+        </div>
+
+        <div id="Div25" class="SuccessBox">
+
+            <img src="http://imagesak.roblox.com/6acd50d6f06cb4801309f2334d6728ab.png" style="display: inline-block" /><span class="BoxTextAligned" style="color: Black; display: inline-block; margin-left: 60px; margin-top: -20px; font-size: 14px">
+
+                    <b>You have successfully
+
+                    purchased
+
+                    Gear
+
+                    "Sci-Fi MedVac 4300" from
+
+                    ROBLOX
+
+                    for
+
+                    R$: 300.</b>
+
+            </span>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div27" style="text-align: center;">
+
+            <p><a href="http://www.roblox.com/Catalog.aspx" id="ctl00_cphRoblox_Hyperlink1" class="ImageButton btn-continueshopping"></a></p>
+
+            <p id="ctl00_cphRoblox_ChangeAvatar_Robux">
+
+                <a id="ctl00_cphRoblox_Hyperlink2" href="My/Character.aspx" style="font-weight:bold;">Customize Character</a></p>
+
+        </div>
+
+    </div>
+
+    <div id="PurchaseUserAssetWithRobuxConfirmationView" class="modalPopup blueAndWhite"
+
+        style="width: 400px; min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div28" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Purchase Complete!
+
+        </div>
+
+        <div id="Div29" class="SuccessBox">
+
+            <img src="http://imagesak.roblox.com/6acd50d6f06cb4801309f2334d6728ab.png" style="display: inline-block" /><span class="BoxTextAligned" style="color: Black; font-size: 14px; display: inline-block; margin-left: 60px; margin-top: -20px">
+
+                    <b>You have successfully purchased
+
+                    Gear
+
+                    "Sci-Fi MedVac 4300".</b>
+
+            </span>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div30" style="text-align: center;">
+
+            <p><a href="http://www.roblox.com/Catalog.aspx" id="ctl00_cphRoblox_Hyperlink4" class="ImageButton btn-continueshopping"></a></p>
+
+            <p id="ctl00_cphRoblox_P1">
+
+                <a id="ctl00_cphRoblox_Hyperlink5" href="My/Character.aspx" style="font-weight:bold;">Customize Character</a></p>
+
+        </div>
+
+    </div>
+
+    <div id="PurchaseWithTicketsConfirmationView" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div31" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Purchase Complete!
+
+        </div>
+
+        <div id="Div32" class="SuccessBox">
+
+            <img src="http://imagesak.roblox.com/6acd50d6f06cb4801309f2334d6728ab.png" style="display: inline-block" /><span class="BoxTextAligned" style="color: Black; font-size: 14px; display: inline-block; margin-left: 60px; margin-top: -20px">
+
+                    <b>You have successfully
+
+                    purchased
+
+                    Gear
+
+                    "Sci-Fi MedVac 4300" from
+
+                    ROBLOX
+
+                    for
+
+                    .</b>
+
+            </span>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div33" style="text-align: center;">
+
+            <p><a href="http://www.roblox.com/Catalog.aspx" id="ctl00_cphRoblox_Hyperlink6" class="ImageButton btn-continueshopping"></a></p>
+
+            <p id="ctl00_cphRoblox_P5">
+
+                <a id="ctl00_cphRoblox_Hyperlink7" href="My/Character.aspx" style="font-weight:bold;">Customize Character</a></p>
+
+        </div>
+
+    </div>
+
+    <div id="RenewForFreeConfirmationView" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div34" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Transaction Complete!
+
+        </div>
+
+        <div id="Div35" class="SuccessBox">
+
+            <img src="http://imagesak.roblox.com/6acd50d6f06cb4801309f2334d6728ab.png" style="display: inline-block" /><span class="BoxTextAligned" style="color: Black; font-size: 14px; display: inline-block; margin-left: 60px; margin-top: -20px">
+
+                    <b>You have successfully renewed
+
+                    Gear
+
+                    "Sci-Fi MedVac 4300" from
+
+                    ROBLOX
+
+                    for free.</b>
+
+            </span>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div36" style="text-align: center;">
+
+            <p><a href="http://www.roblox.com/Catalog.aspx" id="ctl00_cphRoblox_Hyperlink8" class="ImageButton btn-continueshopping"></a></p>
+
+            <p id="ctl00_cphRoblox_P2">
+
+                <a id="ctl00_cphRoblox_Hyperlink9" href="My/Character.aspx" style="font-weight:bold;">Customize Character</a></p>
+
+        </div>
+
+    </div>
+
+    <div id="RenewWithRobuxConfirmationView" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div37" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Purchase Complete!
+
+        </div>
+
+        <div id="Div38" class="SuccessBox">
+
+            <img src="http://imagesak.roblox.com/6acd50d6f06cb4801309f2334d6728ab.png" style="display: inline-block" /><span class="BoxTextAligned" style="color: Black; font-size: 14px; display: inline-block; margin-left: 60px; margin-top: -20px">
+
+                    <b>You have successfully renewed
+
+                    Gear
+
+                    "Sci-Fi MedVac 4300" from
+
+                    ROBLOX
+
+                    for
+
+                    R$: 300.</b>
+
+            </span>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div39" style="text-align: center;">
+
+            <p><a href="http://www.roblox.com/Catalog.aspx" id="ctl00_cphRoblox_Hyperlink11" class="ImageButton btn-continueshopping"></a></p>
+
+            <p id="ctl00_cphRoblox_P3">
+
+                <a id="ctl00_cphRoblox_Hyperlink12" href="My/Character.aspx" style="font-weight:bold;">Customize Character</a></p>
+
+        </div>
+
+    </div>
+
+    <div id="RenewWithTicketsConfirmationView" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div40" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Purchase Complete!
+
+        </div>
+
+        <div id="Div41" class="SuccessBox">
+
+            <img src="http://imagesak.roblox.com/6acd50d6f06cb4801309f2334d6728ab.png" style="display: inline-block" /><span class="BoxTextAligned" style="color: Black; font-size: 14px; display: inline-block; margin-left: 60px; margin-top: -20px">
+
+                    <b>You have successfully renewed
+
+                    Gear
+
+                    "Sci-Fi MedVac 4300" from
+
+                    ROBLOX
+
+                    for
+
+                    .</b>
+
+            </span>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div42" style="text-align: center;">
+
+            <p><a href="http://www.roblox.com/Catalog.aspx" id="ctl00_cphRoblox_Hyperlink13" class="ImageButton btn-continueshopping"></a></p>
+
+            <p id="ctl00_cphRoblox_P4">
+
+                <a id="ctl00_cphRoblox_Hyperlink14" href="My/Character.aspx" style="font-weight:bold;">Customize Character</a></p>
+
+        </div>
+
+    </div>
+
+    
+
+
+
+<div id="InsufficientRobuxView" class="modalPopup blueAndWhite" style="width: 400px;
+
+    min-height: 100px; display: none; position: absolute;">
+
+    <div id="ctl00_cphRoblox_ctl00_Div43" class="simplemodal-close">
+
+        <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+            position: absolute; top: -18px; left: -10px;"></a>
+
+    </div>
+
+    <div class="titleBar" style="text-align: center">
+
+        Insufficient Funds!
+
+    </div>
+
+    <div style="text-align: center">
+
+        You need
+
+        
+
+        more tickets to purchase this item.
+
+    </div>
+
+    <div id="ctl00_cphRoblox_ctl00_Div45" style="clear: left; padding-top: 10px; text-align: center;">
+
+        <p>
+
+            
+
+            <a class="GreenButton" href="/Marketplace/TradeCurrency.aspx"><span>Trade Currency</span></a></p>
+
+        <p>
+
+            <a onclick="$.modal.close();" id="ctl00_cphRoblox_ctl00_CancelButton4" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$ctl00$CancelButton4&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+    </div>
+
+</div>
+
+
+
+<!-- TODO: Make a javascript function that allows us to instantiate / call this with dynamic ticket and robux values -->
+
+    
+
+
+
+<div id="InsufficientTicketsView" class="modalPopup blueAndWhite" style="width: 400px;
+
+    min-height: 100px; display: none; position: absolute;">
+
+    <div id="ctl00_cphRoblox_ctl01_Div43" class="simplemodal-close">
+
+        <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+            position: absolute; top: -18px; left: -10px;"></a>
+
+    </div>
+
+    <div class="titleBar" style="text-align: center">
+
+        Insufficient Funds!
+
+    </div>
+
+    <div style="text-align: center">
+
+        You need
+
+        
+
+        more tickets to purchase this item.
+
+    </div>
+
+    <div id="ctl00_cphRoblox_ctl01_Div45" style="clear: left; padding-top: 10px; text-align: center;">
+
+        <p>
+
+            
+
+            <a class="GreenButton" href="/Marketplace/TradeCurrency.aspx"><span>Trade Currency</span></a></p>
+
+        <p>
+
+            <a onclick="$.modal.close();" id="ctl00_cphRoblox_ctl01_CancelButton4" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$ctl01$CancelButton4&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+    </div>
+
+</div>
+
+
+
+<!-- TODO: Make a javascript function that allows us to instantiate / call this with dynamic ticket and robux values -->
+
+    
+
+    <div id="TicketsPriceHasChanged" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            The price of this item has changed!
+
+        </div>
+
+        <div style="text-align: center; font-size:14px; font-weight:bold;">
+
+            While you've been looking at this item, the price changed from <span id="ctl00_cphRoblox_TicketsPriceHasChangedOriginal" style="color: #AA6611;"></span> to <span id="ctl00_cphRoblox_PriceHasChangedNew" style="color: #AA6611;"></span>.
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div9" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <p style="margin: 0; padding: 12px 0;">
+
+                <a id="ctl00_cphRoblox_LinkButton6" class="GreenButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$LinkButton6&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Continue Buying Item</span></a>
+
+                <span style="padding: 0px 5px;"></span>
+
+                <a onclick="ModalClose(&#39;TicketsPriceHasChanged&#39;);" id="ctl00_cphRoblox_LinkButton7" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$LinkButton7&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <div id="RobuxPriceHasChanged" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div6" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            The price of this item has changed!
+
+        </div>
+
+        <div style="text-align: center; font-size:14px; font-weight:bold;">
+
+            While you've been looking at this item, the price changed from <span id="ctl00_cphRoblox_RobuxPriceHasChangedOriginal" style="color: #008800">R$: </span> to <span id="ctl00_cphRoblox_RobuxPriceHasChangedNew" style="color: #008800">R$: 300</span>.
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div8" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <p style="margin: 0; padding: 12px 0;">
+
+                <a id="ctl00_cphRoblox_LinkButton8" class="GreenButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$LinkButton8&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Continue Buying Item</span></a>
+
+                <span style="padding: 0px 5px;"></span>
+
+                <a onclick="ModalClose(&#39;RobuxPriceHasChanged&#39;);" id="ctl00_cphRoblox_LinkButton9" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$LinkButton9&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+            </p>
+
+        </div>
+
+    </div>
+
+    <div id="RedundantPurchaseView" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div47" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Item Owned!
+
+        </div>
+
+        <div style="text-align: center;">
+
+            You already own this item.
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div48" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <a onclick="ModalClose(&#39;RedundantPurchaseView&#39;);" id="ctl00_cphRoblox_LinkButton2" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$LinkButton2&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+        </div>
+
+    </div>
+
+    <div id="AlreadySoldView" class="modalPopup blueAndWhite" style="width: 400px; min-height: 100px;
+
+        display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div49" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Item No Longer For Sale!
+
+        </div>
+
+        <div style="text-align: center;">
+
+            Transaction not completed. No money has been taken out of your Robux account, please
+
+            try again.
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div50" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <a onclick="ModalClose(&#39;AlreadySoldView&#39;);" id="ctl00_cphRoblox_LinkButton3" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$LinkButton3&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+        </div>
+
+    </div>
+
+    <div id="BCLevelTooLowView" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div51" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            BC Level Too Low!
+
+        </div>
+
+        <div style="text-align: center;">
+
+            Your Builders Club level isn't high enough to purchase this item. <a href="/Upgrades/BuildersClubMemberships.aspx">
+
+                Upgrade</a> now!
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div52" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <a onclick="ModalClose(&#39;BCLevelTooLowView&#39;);" id="ctl00_cphRoblox_LinkButton4" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$LinkButton4&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+        </div>
+
+    </div>
+
+    <div id="GenericExceptionView" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div53" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Error!
+
+        </div>
+
+        <div style="text-align: center;">
+
+            Transaction not completed. No money has been taken out of your Robux account. Please
+
+            try again.
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div54" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <a onclick="ModalClose(&#39;GenericExceptionView&#39;);" id="ctl00_cphRoblox_LinkButton5" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$LinkButton5&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel</span></a>
+
+        </div>
+
+    </div>
+
+    <div id="SalePriceConfirmPopupPanel" class="modalPopup blueAndWhite" style="width: 400px;
+
+        min-height: 100px; display: none; position: absolute;">
+
+        <div id="ctl00_cphRoblox_Div55" class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left: 405px;
+
+                position: absolute; top: -18px; left: -10px;"></a>
+
+        </div>
+
+        <div class="titleBar" style="text-align: center">
+
+            Warning!
+
+        </div>
+
+        <div id="RobloxOffer" style="text-align: center;">
+
+            <p>
+
+                You are trying to sell this item for <b>
+
+                    ERROR: No P2P offer price</b> ROBUX.</p>
+
+            <p>
+
+                This item normally sells for around <b>
+
+                    </b> ROBUX.</p>
+
+            <p>
+
+                If you want, ROBLOX will purchase this item from you instantly for <b>
+
+                    0</b> ROBUX.</p>
+
+            <p>
+
+                Minus marketplace fees, your profit would be: <b>
+
+                    ERROR: No P2P offer price</b> ROBUX</p>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_Div56" style="clear: left; padding-top: 10px; text-align: center;">
+
+            <a onclick="ModalClose(&#39;SalePriceConfirmPopupPanel&#39;);" id="ctl00_cphRoblox_CancelAttemptedSale" class="RedButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$CancelAttemptedSale&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Cancel Sale</span></a>
+
+            <a onclick="ProcessROBLOXPurchaseOpen();" id="ctl00_cphRoblox_SellItemToROBLOX" class="GreenButton" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$cphRoblox$SellItemToROBLOX&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><span>Sell to ROBLOX</span></a>
+
+        </div>
+
+    </div>
+
+    <div id="ProcessROBLOXPurchaseView" class="modalPopup blueAndWhite" style="width: 300px;
+
+        min-height: 50px; display: none; position: absolute;">
+
+        <div id="Processing_ROBLOXPurchase" style="margin: 15px auto; text-align: center;
+
+            vertical-align: middle;">
+
+            <img id="ctl00_cphRoblox_Image22" src="images/ProgressIndicator2.gif" alt="Processing..." align="middle" style="border-width:0px;" />&nbsp&nbsp; Processing transaction
+
+            ...
+
+        </div>
+
+    </div>
+
+    <div id="ctl00_cphRoblox_CreateSetPanelDiv" class="createSetPanelPopup">
+
+	
+
+        
+
+
+
+<div>
+
+    <div id="CreateSetPopupContainerDiv" class="SetsPagePopupContainer">
+
+        <div class="simplemodal-close">
+
+            <a class="ImageButton closeBtnCircle_35h" style="cursor: pointer; margin-left:400px; position:absolute; top:-20px; left:-10px"></a>
+
+        </div>
+
+        <div id="ctl00_cphRoblox_CreateSetPanel1_CreateSetInnerDIV">
+
+            <div class="CreateEditSetTitle">Create Set</div>
+
+            <div>
+
+                <p>
+
+                    <span>Name:  </span>
+
+                    <span id="NameDisplay"></span>
+
+                </p>
+
+                <div id="ctl00_cphRoblox_CreateSetPanel1_NameDiv">
+
+                    <input name="ctl00$cphRoblox$CreateSetPanel1$Name" type="text" maxlength="100" id="ctl00_cphRoblox_CreateSetPanel1_Name" onkeydown="enableButton();" onkeyup="ismaxlength(this); updateRegularNameDisplay(this);" style="width:250px;" />
+
+                </div>
+
+                
+
+                
+
+                
+
+                
+
+                <span id="ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity" style="color:Red;display:none;">This set name contains some improper words.</span>
+
+                <p style="margin-bottom: 0px">Description:</p>
+
+                
+
+                <textarea name="ctl00$cphRoblox$CreateSetPanel1$Description" rows="2" cols="20" id="ctl00_cphRoblox_CreateSetPanel1_Description" onkeyup="return ismaxlength(this);">
+
+</textarea>
+
+                <p style="width: 40px; margin-bottom: 0px">Image:</p>
+
+                <input type="file" name="ctl00$cphRoblox$CreateSetPanel1$Uploader" id="ctl00_cphRoblox_CreateSetPanel1_Uploader" onchange="fileUploadIsReady = true; enableButton();" style="width:350px;" />
+
+                
+
+                <div id="ButtonDiv" style="text-align: center; margin: 10px 0px 10px 0px">
+
+                    <input type="submit" name="ctl00$cphRoblox$CreateSetPanel1$CreateSet" value="Create Set" id="ctl00_cphRoblox_CreateSetPanel1_CreateSet" disabled="disabled" />
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <script type="text/javascript" language="javascript">
+
+            var userName = 'Callofdutymw2roach';
+
+            var maxAdjectives = '2';
+
+            var maxCategories = '2';
+
+            var superSafeAdjectiveListClientId = 'ctl00_cphRoblox_CreateSetPanel1_SuperSafeAdjectiveChoices';
+
+            var superSafeCategoryListClientId = 'ctl00_cphRoblox_CreateSetPanel1_SuperSafeCategoryChoices';
+
+            var superSafeNameListClientId = 'ctl00_cphRoblox_CreateSetPanel1_SuperSafeNameChoice';
+
+            var fileUploadIsReady = false;
+
+            var nameClientID = 'ctl00_cphRoblox_CreateSetPanel1_Name';
+
+            var createSetClientID = 'ctl00_cphRoblox_CreateSetPanel1_CreateSet';
+
+            var errorOnPage = false;
+
+
+
+            var prevSelected = [];
+
+
+
+            $(document).ready(function() { if (errorOnPage == "True") { $('#CreateSetPopupContainerDiv').modal({ appendTo: 'form', escClose: true, opacity: 80, overlayCss: { backgroundColor: '#000' }, position: [120, 0] }); } });
+
+        </script>
+
+        
+
+    </div>
+
+</div>
+
+    
+
+</div>
+
+    
+
+
+
+    <script type="text/javascript">
+
+        
+
+        $("#Tabs").tabs();
+
+
+
+        
+
+            $("#CommentaryTabHeader").addClass("StandardTabGrayActive");
+
+             $("#CommentaryTab").show();
+
+        
+
+
+
+        var commentsLoaded = false;
+
+
+
+        $("#UserSalesLink").click(function () {
+
+            $(".ItemTabs").removeClass("StandardTabGrayActive");
+
+            $(".ItemTabs").addClass("StandardTabGray");
+
+            $("#UserSalesTabHeader").addClass("StandardTabGrayActive");
+
+            $("#ScriptReviewTab").hide();
+
+        });
+
+
+
+        $("#ScriptReviewLink").click(function () {
+
+            $(".ItemTabs").removeClass("StandardTabGrayActive");
+
+            $(".ItemTabs").addClass("StandardTabGray");
+
+            $("#ScriptReviewTabHeader").addClass("StandardTabGrayActive");
+
+            $("#ScriptReviewTab").show();
+
+        });
+
+
+
+        $("#CommentaryLink").click(function () {
+
+            $(".ItemTabs").removeClass("StandardTabGrayActive");
+
+            $(".ItemTabs").addClass("StandardTabGray");
+
+            $("#CommentaryTabHeader").addClass("StandardTabGrayActive");
+
+            $("#ScriptReviewTab").hide();
+
+            $("#CommentaryTab").show()
+
+            if (!commentsLoaded) {
+
+                __doPostBack('ctl00$cphRoblox$CommentsPane$LoadCommentsButton','');
+
+                commentsLoaded = true;
+
+            }
+
+            return false;
+
+        });
+
+        
+
+        function confirmDelete() {
+
+            return confirm("Are you sure you want to permanently DELETE this item from your inventory?");
+
+        }
+
+
+
+        function confirmSubmit() {
+
+            var resp = confirm("This will add a new badge giver model to your inventory. Are you sure you want to do this?");
+
+            if (resp) {
+
+                window.location.href = $('#ctl00_cphRoblox_btnSubmit').attr('href');
+
+            }
+
+        }
+
+
+
+        function getItem(view) {
+
+            switch(view) {
+
+                case "PurchaseFree":
+
+                    $('#ctl00_cphRoblox_Button2').click();
+
+                    break;
+
+                case "PurchaseRobux":
+
+                    $('#ctl00_cphRoblox_Button3').click();
+
+                    break;
+
+                case "UAPurchaseRobux":
+
+                    $('#ctl00_cphRoblox_Button4').click();
+
+                    break;
+
+                case "PurchaseTickets":
+
+                    $('#ctl00_cphRoblox_Button5').click();
+
+                    break;
+
+            }
+
+        }
+
+
+
+        // Code for Modal Popups
+
+        $(function() { 
+
+
+
+            
+
+
+
+            var modalProperties = { overlayClose: true, escClose: true, opacity: 80, overlayCss: { backgroundColor: "#000"} };
+
+            
+
+            //Purchase Verification
+
+            
+
+
+
+            //Renew Verification
+
+            
+
+
+
+            //Purchase Confirmation
+
+            
+
+
+
+            //Renew Confirmation
+
+            
+
+
+
+            //Insufficient Funds
+
+            
+
+
+
+            // Price has changed
+
+            
+
+
+
+            //Other Messages
+
+            
+
+
+
+            // Item not for sale; use the AlreadySoldView because the error text is similar: "Item not for sale"
+
+            
+
+
+
+            //Sell to ROBLOX
+
+            
+
+        });
+
+
+
+        function ModalClose(popup) {
+
+            $.modal.close('.' + popup);
+
+        }
+
+
+
+        function UpdateSets(assetSetItemId, updateAllSets)
+
+        {
+
+            $.get(
+
+                "/Sets/SetHandler.ashx?rqtype=getnewestversion&assetSetItemId=" + assetSetItemId + (updateAllSets ? "&allsets=true" : ""),
+
+                function()
+
+                {
+
+                    $('#ctl00_cphRoblox_UpdateSet').hide("slow");
+
+                    if (updateAllSets)
+
+                    {
+
+                        $('#ctl00_cphRoblox_updateSetsDiv').slideToggle("slow");
+
+                    }
+
+                });
+
+        }
+
+    </script>
+
+
+
+        </div>
+
+        </div>
+
+        
+
+            
+
+<div id="Footer">
+
+    <div class="FooterNav">
+
+        <a id="ctl00_cphFooter_rbxFooter_PrivacyHyperLink" ref="footer-privacy" href="/info/Privacy.aspx"><b>Privacy Policy</b></a>
+
+        &nbsp;|&nbsp; 
+
+        <a id="ctl00_cphFooter_rbxFooter_AdvertiseHyperLink" ref="footer-advertise" href="http://corp.roblox.com/advertise-on-roblox">Advertise with Us</a>
+
+        &nbsp;|&nbsp; 
+
+        <a id="ctl00_cphFooter_rbxFooter_PressHyperLink" ref="footer-press" href="http://corp.roblox.com/roblox-press">Press</a>
+
+        &nbsp;|&nbsp; 
+
+        <a id="ctl00_cphFooter_rbxFooter_ContactHyperLink" ref="footer-contact" href="http://corp.roblox.com/contact-us">Contact Us</a>
+
+        &nbsp;|&nbsp;
+
+        <a id="ctl00_cphFooter_rbxFooter_AboutHyperLink" ref="footer-about" href="http://corp.roblox.com/">About Us</a>
+
+        &nbsp;|&nbsp;
+
+        <a id="ctl00_cphFooter_rbxFooter_BlogHyperLink" ref="footer-blog" href="http://blog.roblox.com">Blog</a>
+
+        &nbsp;|&nbsp;
+
+        <a id="ctl00_cphFooter_rbxFooter_JobsHyperLink" ref="footer-jobs" href="http://corp.roblox.com/jobs">Jobs</a>
+
+        &nbsp;|&nbsp;
+
+        <a id="ctl00_cphFooter_rbxFooter_ParentsHyperLink" ref="footer-parents" href="/Parents.aspx">Parents</a>
+
+    </div>
+
+    <div  class="FooterNav">
+
+        <div id="ctl00_cphFooter_rbxFooter_SEOGenreLinks" class="SEOGenreLinks"><a href="/FreeGames.aspx" ref="footer-games">Free Games</a>&nbsp;|&nbsp;<a href='/town-and-city-games' title='Town and City Games' ref='footer-genres'>Town and City</a>&nbsp;|&nbsp;<a href='/medieval-games' title='Fantasy Games' ref='footer-genres'>Fantasy</a>&nbsp;|&nbsp;<a href='/sci-fi-games' title='Sci-Fi Games' ref='footer-genres'>Sci-Fi</a>&nbsp;|&nbsp;<a href='/ninja-games' title='Ninja Games' ref='footer-genres'>Ninja</a>&nbsp;|&nbsp;<a href='/scary-games' title='Scary Games' ref='footer-genres'>Scary</a>&nbsp;|&nbsp;<a href='/pirate-games' title='Pirate Games' ref='footer-genres'>Pirate</a>&nbsp;|&nbsp;<a href='/adventure-games' title='Adventure Games' ref='footer-genres'>Adventure</a>&nbsp;|&nbsp;<a href='/sports-games' title='Sports Games' ref='footer-genres'>Sports</a>&nbsp;|&nbsp;<a href='/funny-games' title='Funny Games' ref='footer-genres'>Funny</a>&nbsp;|&nbsp;<a href='/wild-west-cowboy-games' title='Wild West Games' ref='footer-genres'>Wild West</a>&nbsp;|&nbsp;<a href='/war-games' title='War Games' ref='footer-genres'>War</a>&nbsp;|&nbsp;<a href='/skatepark-games' title='Skate Park Games' ref='footer-genres'>Skate Park</a>&nbsp;|&nbsp;<a href='/gametutorials-games' title='Tutorial Games' ref='footer-tutorial'>Tutorial</a></div>
+
+    </div>
+
+    <div class="legal">
+
+        <div class="left">
+
+            <a href="http://www.truste.org/ivalidate.php?url=www.roblox.com&sealid=105" id="ctl00_cphFooter_rbxFooter_TrusteeSeal" ref="parents-truste"><img height="60" src="http://imagesak.roblox.com/b92246c852ef789ec8edba47fabed179.png" border="0" id="TrusteLogo" alt="Truste" /></a>
+
+            <a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=109111915116750" ref="parents-bbb"><img height="60" title="Click to verify BBB accreditation and to see a BBB report." border="0" src="http://imagesak.roblox.com/4c792571feaf5ace01d2da52e49e31de.gif" alt="Click to verify BBB accreditation and to see a BBB report." /></a>
+
+        </div>
+
+        <div class="right">
+
+            
+
+
+
+<p class="Legalese">
+
+    ROBLOX, "Online Building Toy", characters, logos, names, and all related indicia are trademarks of <a href="http://corp.roblox.com/" ref="footer-smallabout">ROBLOX Corporation</a>, c2012. Patents pending.
+
+    ROBLOX is not sponsored, authorized or endorsed by any producer of plastic building bricks, including The LEGO Group, MEGA Brands, and K'Nex, and no resemblance to the products of these companies is intended. Use of this site signifies your acceptance of the <a href="/info/TermsOfService.aspx" ref="footer-terms">Terms and Conditions</a>.
+
+</p>
+
+
+
+        </div>
+
+        <div class="clear"></div>
+
+    </div>
+
+</div>
+
+        
+
+        
+
+    </div>
+
+    <div id="ChatContainer" style="width: 100%">
+
+        
+
+         
+
+        <!-- Friends dock / chat bar -->
+
+        <div id="friend_dock_chattemplate" style="display:none;">
+
+            <div id="CHATUSERID_friend_dock_chatbox" userid="CHATUSERID" class="friend_dock_chatbox">
+
+                <div class="friend_dock_chatbox_titlebar blinkoffheader" userid="CHATUSERID">
+
+                    <div class="friend_dock_chatbox_username">
+
+                        <a style="color:#fff" class="friend_dock_chatbox_username_display" href="/user.aspx?id=CHATUSERID">CHATUSERNAME</a>
+
+                        <a class="friend_dock_chatbox_username_abuse" style="color:#fff;font-size: 9px;  line-height: 14px; cursor: pointer" alt="Report Abuse" href="#" onclick="ReportAbuse(CHATUSERID); return false;">(Report)</a>
+
+                    </div>
+
+                    <div class="friend_dock_chatbox_closebutton">
+
+                        <a href="#" style="color:#fff" onclick="ChatBar.CloseChat($(this).parents('.friend_dock_chatbox').filter(':first'));return false;">-</a>
+
+                    </div>
+
+                </div>
+
+                <div class="friend_dock_chatbox_currentlocation" style="margin: 10px; font-size: 12px; height: 18px">
+
+                </div>
+
+                <div id="CHATUSERID_friend_dock_chatbox_chat" class="friend_dock_chatbox_chat">
+
+                </div>
+
+                <textarea class="friend_dock_chatbox_entry" maxlength="255"></textarea>
+
+            </div>
+
+        </div>
+
+        
+
+        
+
+        <div id="friend_dock_friendtemplate" style="display:none;">
+
+            <div id="UID_CURRTAB_friend" userid="UID" username="USERNAME" class="friend_dock_friend">
+
+                <div id="UID_CURRTAB_onlinestatus" class="friend_dock_onlinestatus"></div>
+
+                <div id="UID_CURRTAB_offlinestatus" class="friend_dock_offlinestatus"></div>
+
+                <div id="UID_CURRTAB_dropdown" class="friendBarDropDown" userid="UID" username="USERNAME" style="display: none">
+
+                    <div id="UID_CURRTAB_dropdownbutton" class="friend_dropdownbutton20"></div>
+
+                    <div id="UID_CURRTAB_dropdownlist" class="friendBarDropDownList">
+
+                        <ul>
+
+                            <li class="StartChat" onclick="ChatBar.ToggleChat('UID', 'USERNAME');" startchattingdisplay userid="UID"><div>Start Chatting</div></li>
+
+                            <li onclick="window.location.href = '/user.aspx?id=UID';"><div>View Profile</div></li>
+
+                            <li class="EndChat" style="display:none" onclick="ChatBar.RemoveActiveChat(this);" userid="UID"><div>End Chat</div></li>
+
+                        </ul>
+
+                    </div>    
+
+                </div>
+
+                <img thumbnail_holder alt="" onclick="ChatBar.ToggleChat('UID', 'USERNAME'); return false;" width="48" height="48" class="ActiveChatThumb" />
+
+                <div class="friend_dock_username"><span class="friend_dock_username_href">USERNAMETRUNCATED</span></div>
+
+            </div>
+
+        </div>
+
+        
+
+        <div id="friend_dock_chatholder">
+
+        </div>
+
+        <div id='friend_dock_minimized_container' style=display:none; >
+
+            <div style="float:right">
+
+                <a id="minChatsTab" href="#" class="tab_white19h">
+
+                    <span onclick="ChatBar.ShowFriends();return false;">
+
+                        Chat
+
+                        <img src="http://imagesak.roblox.com/d6e42c80c3ce1777817a2b418ae1fa90.png" style="border: none" />
+
+                    </span>
+
+                </a>
+
+            </div>
+
+        </div>
+
+        <div id="friend_dock_container" style= >
+
+           <div id="friend_dock_titlebar">
+
+                <div style="float:left;">
+
+                    
+
+                    <a id="bestFriendsTab" style="text-decoration: none" class="tab_white19h" href="#" onclick="ChatBar.TogglePanel('bestFriendsTab_dock_thumbnails');return false;"><span>Best Friends</span></a>
+
+                    
+
+                    <a id="friendsTab" style="text-decoration: none" class="tab_white19h" href="#" onclick="ChatBar.TogglePanel('friendsTab_dock_thumbnails');return false;"><span>Online Friends</span></a>
+
+                    
+
+                    <a id="recentsTab" style="text-decoration: none" class="tab_white19h" href="#" onclick="ChatBar.TogglePanel('recentsTab_dock_thumbnails');return false;"><span>Recent</span></a>
+
+                    <a id="chatsTab" style="text-decoration: none" class="tab_white19h" href="#" onclick="ChatBar.TogglePanel('chatsTab_dock_thumbnails_chat');return false;"><span>Chats</span></a>
+
+                </div>
+
+                <div style="float:right;">
+
+                    
+
+                        <div class="tab_white19h" id="partyTab" onclick="Party.ToggleTab(null); return false;">
+
+                            <span>
+
+                            <b><a href="#">Party</a></b>&nbsp;&nbsp;&nbsp;&nbsp;
+
+                            </span>
+
+                        </div>
+
+                      
+
+                    <div class="friend_dock_chatsettings" style="display:none">
+
+                        <div style="padding:10px 10px 10px 10px">
+
+                            <div class="chat_settings_group_header">Who can chat with me:</div>
+
+                            <input type="radio" id="chat_settings_all" name="rdoOnline" checked = checked /> <b>All Users</b><br />
+
+
+
+                            <input type="radio" id="chat_settings_friends" name="rdoOnline"  /> <b>Friends</b><br />
+
+
+
+                            <input type="radio" id="chat_settings_bestfriends" name="rdoOnline"  /> <b>Best Friends</b><br />
+
+
+
+                            <input type="radio" id="chat_settings_noone" name="rdoOnline"  /> <b>No One</b><br /><br />
+
+                             
+
+                            <hr />
+
+                            <div class="chat_settings_group_header">Who can party with me:</div>
+
+                            <input type="radio" id="party_settings_all" name="rdoOnline2" checked = checked /> <b>All Users</b><br />
+
+
+
+                            <input type="radio" id="party_settings_friends" name="rdoOnline2"  /> <b>Friends</b><br />
+
+
+
+                            <input type="radio" id="party_settings_bestfriends" name="rdoOnline2"  /> <b>Best Friends</b><br />
+
+
+
+                            <input type="radio" id="party_settings_noone" name="rdoOnline2"  /> <b>No One</b><br /><br />
+
+
+
+                              
+
+                            <hr />
+
+                            <div class="chat_settings_group_header">Chat Notifications:</div>
+
+                            <input type="radio" id="chat_settings_soundon" name="rdoNotifications" checked = checked /> <b>All</b><br />
+
+
+
+                            <input type="radio" id="chat_settings_soundoff" name="rdoNotifications"  /> <b>None</b><br />
+
+                            <div style="text-align:center; margin-top: 5px;">
+
+                                <input type="button" onclick="ChatBar.ApplySettings();$('.friend_dock_chatsettings').hide();" value="Save">
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="tab_white19h">
+
+                        <span>
+
+                            <b><a onclick="$('.friend_dock_chatsettings').toggle(); return false" href="#">Settings</a></b>&nbsp;&nbsp;&nbsp;
+
+                            <img src="http://imagesak.roblox.com/8a762994af1e122de8ac427005ac3d9b.png" onclick="ChatBar.HideFriends();return false;" style="border: none; cursor: pointer" />
+
+                        </span>
+
+                    </div>
+
+               </div>
+
+           </div>
+
+           <div id="friend_dock_thumb_container">
+
+                <!-- Container for the dynamically generated thumbs for friends -->
+
+                <div id="friendsTab_dock_thumbnails" style="display: none">
+
+                    <div id="friendsTab_dock_thumbnails_empty" style="display:none; font-size:12px; margin-top:40px;">No results found.  Find some friends <a href="/Browse.aspx">here</a>.</div>
+
+                </div>
+
+                
+
+                <!-- Container for the dynamically generated thumbs for best friends -->
+
+                <div id="bestFriendsTab_dock_thumbnails" style="float:left; display: none">
+
+                    <div id="bestFriendsTab_dock_thumbnails_empty" style="display:none; font-size:12px; margin-top:40px;">No results? Start off by <a href="/my/editfriends.aspx">adding some Best Friends.</a></div>
+
+                </div>
+
+                
+
+                <!-- Container for the dynamically generated thumbs for recents -->
+
+                <div id="recentsTab_dock_thumbnails" style="float:left; display: none">
+
+                    <div id="recentsTab_dock_thumbnails_empty" style="display:none; font-size:12px; margin-top:40px;">You have not had any recent interactions.</div>
+
+                </div>
+
+                
+
+                <!-- Container for the dynamically generated thumbs for chats -->
+
+                <div id="chatsTab_dock_thumbnails_chat" style="float:left; display: none">
+
+                    <div id="chatsTab_dock_thumbnails_chat_empty" style="display:none; font-size:12px; margin-top:40px;">You are not currently chatting with anyone.</div>
+
+                </div>
+
+           </div>
+
+            <div id="partycontainer" style="display:none;margin-left:10px;float:right;">
+
+                
+
+        
+
+<div id="partyMemberTemplate" style="display:none;height:32px">
+
+	<div id="party_pendinguserid_UID">
+
+	    <dt style="position:relative">
+
+            <span id="UID_status" class="friend_dock_offlinestatus"></span>
+
+            [PARTY_MEMBER_THUMBNAIL]
+
+        </dt> 
+
+	    <dd> 
+
+		    <span>[PARTY_MEMBER_NAME]</span>&nbsp;&nbsp;&nbsp;[PARTY_MEMBER_REPORT][PARTY_KICK_MEMBER]
+
+		    <br /> 
+
+		    <span class="grey9">&nbsp;</span> 
+
+	    </dd> 
+
+	</div>
+
+</div>
+
+
+
+<script type="text/javascript" language="javascript">
+
+    Party.CurrentUserID = 18918326;
+
+    Party.CurrentUserName = "Callofdutymw2roach";
+
+    Party.ActiveView = "";
+
+    Party.PollThreadAvailable = true;
+
+    Party.FirstLoad = true;
+
+    Party.PollIntervalTimer = null;
+
+    Party.Cookie = new RobloxJSONCookie("PartyCookie"); 
+
+    Party.MaxPartySize = 6;
+
+    Party.PlayEnabled = true;
+
+</script>
+
+
+
+<script type="text/javascript" language="javascript">
+
+    try
+
+    {
+
+        $(function()
+
+        {
+
+            Party.ProcessPolledData(eval({"CreatorID":18918326,"GameGuid":null,"PartyGameAsset":null,"PartyGuid":"b6ef442c-3ef6-4b4b-ab18-aa9c749044ff","Members" : [{"ChatColor":"#0066FF","HasUpdates":false,"PartyGuid":"b6ef442c-3ef6-4b4b-ab18-aa9c749044ff","Pending":false,"UserID":18918326,"UserName":"Callofdutymw2roach","IsOnline" : "True","Thumbnail" : "http://t0ak.roblox.com/61549c53ae01c977edca5b9df49600ec"},{"ChatColor":"#FF9900","HasUpdates":false,"PartyGuid":"b6ef442c-3ef6-4b4b-ab18-aa9c749044ff","Pending":false,"UserID":17790167,"UserName":"Elitecyris","IsOnline" : "True","Thumbnail" : "http://t0ak.roblox.com/808396c31c86cc10f476b565bc6e5060"}],"CreatorName" : "Callofdutymw2roach","Conversation" : [{"Message":"Brb,WC.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:01:47 AM"},{"Message":"done that","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:02:36 AM"},{"Message":"Back.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:07:43 AM"},{"Message":"kk next","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:07:53 AM"},{"Message":"wats next?","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:11:00 AM"},{"Message":"I'm scamming someone.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:11:27 AM"},{"Message":"ok","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:11:49 AM"},{"Message":"one your in build mode now","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:12:55 AM"},{"Message":"Yes.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:13:01 AM"},{"Message":"Edit mode.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:13:02 AM"},{"Message":"oh edit","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:13:10 AM"},{"Message":"then?","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:13:21 AM"},{"Message":"hello then?","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:15:11 AM"},{"Message":"Okay.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:15:42 AM"},{"Message":"wats next","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:16:38 AM"}],"CreatorName" : "Callofdutymw2roach"}));
+
+            Party.OnPageLoad();
+
+        });
+
+    }
+
+    catch (ex)
+
+    {
+
+
+
+    }
+
+</script>
+
+
+
+
+
+<div class="partyWindow" id="party_none"> 
+
+	<div id="party_none_title" class="title" onclick="Party.ToggleTab(false)">
+
+        <span>Party</span> 
+
+		<div class="closeparty">-</div>
+
+	</div> 
+
+	<div class="main"> 
+
+		<div id="new_party"> 
+
+			<p>You are not in a party.  To create a party, just invite someone:</p>
+
+			<p><input type="text" id="new_party_invite_name" class="party_invite_box" onkeydown="return Party.ProcessKey('new_party_invite_name',event)" /><input type="button" onclick="Party.DoInvite('new_party_invite_name')" value="Invite" /></p>
+
+		</div> 
+
+		<!--
+
+		<div class="btn_green21h"> 
+
+			<a href="#" onclick="Party.CreateNew(); return false">New Party</a> 
+
+		</div> 
+
+		-->
+
+		<div class="clear" id="new_party_clear"> 
+
+		</div> 
+
+	</div> 
+
+</div>
+
+
+
+<div class="partyWindow" id="party_loading" style="display:none;"> 
+
+	<div id="party_loading_title" class="title" onclick="Party.ToggleTab(false)">
+
+		<span>Party</span>  
+
+		<div class="closeparty">-</div> 
+
+	</div> 
+
+	<div class="main"> 
+
+		<div> 
+
+			<p>Invitation sent.</p>
+
+			<p>Creating party...</p>
+
+		</div> 
+
+	</div> 
+
+</div>
+
+
+
+<div class="partyWindow" id="party_pending" style="display:none;">
+
+		<div id="party_pending_title" class="title" onclick="Party.ToggleTab(false)"> 
+
+			<span>Party</span>
+
+            <div class="closeparty">-</div> 
+
+		</div>
+
+		<div class="main"> 
+
+			<div id="invite_header" style="font-weight: bold; padding: 10px; color:Green;">RobloTim wants to party with you!</div> 
+
+			<div class="members"> 
+
+				<dl id="party_invite_list"> 
+
+				</dl> 
+
+			</div><!-- END div: members --> 
+
+			
+
+			<div id="invite_status"> 
+
+				<p><span class="grey9">Invitations by Leader only</span></p> 
+
+				<p><span class="grey9">Waiting for Leader to play a game</span></p> 
+
+			</div> 
+
+			
+
+			<div class="btn_green21h"> 
+
+				<a href="#" onclick="Party.AcceptInvite();return false;">Join Party</a> 
+
+			</div> 
+
+			
+
+			<div class="btn_red21h"> 
+
+				<a href="#" onclick="Party.DeclineInvite();return false;">Ignore</a> 
+
+			</div> 
+
+			
+
+			<div class="clear" id="invite_clear"> 
+
+			</div> 
+
+		</div><!-- END div: main --> 
+
+</div> 
+
+
+
+
+
+<div class="partyWindow" id="party_my" style="display:none;"> 
+
+	<div id="party_my_title" class="title" onclick="Party.ToggleTab(false)"> 
+
+        <span>Party</span> 
+
+		<div class="closeparty">-</div> 
+
+	</div> 
+
+	<div class="main"> 
+
+		<div class="members"> 
+
+			<dl id="party_member_list"> 
+
+				
+
+			</dl> 
+
+		</div><!-- END div: members --> 
+
+		
+
+		<p id="party_invite_instructions"><span class="grey9"><input type="text" id="party_my_invite_name" class="party_invite_box" onkeydown="return Party.ProcessKey('party_my_invite_name',event)" /><input type="button" onclick="Party.DoInvite('party_my_invite_name')" value="Invite" /></span></p> 
+
+		
+
+		<div id="chat_messages"> 
+
+
+
+		</div> 
+
+		
+
+		<div id="chat_input">
+
+			<textarea name="comments" rows="2" cols="27" id="comments" tabindex="4" title="comments"></textarea>
+
+		</div> 
+
+		
+
+		
+
+		<div id="party_current_game">
+
+            <table border="0" style="padding: 0px; margin: 0px; border: 0px;">
+
+                <tr style="padding: 0px; margin: 0px; border: 0px;">
+
+                    <td style="padding: 0px; margin: 0px; border: 0px;">
+
+		                <div id="party_game_thumb">
+
+		                </div>
+
+                    </td>
+
+                    <td style="padding: 0px; margin: 0px; border: 0px;">
+
+		                <div id="party_game_name" style="float: right;">
+
+		                </div>
+
+		                <span id="party_game_follow_me" class="followme_green19h" onclick="Party.JoinGameWithParty(); return false;" ></span>
+
+		                <span class="btn_red21h">
+
+			                <a href="#" onclick="Party.DeclineInvite();return false;">Leave Party</a>
+
+		                </span>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+		</div>
+
+		
+
+		
+
+		<div class="clear" id="leader_clear"> 
+
+		</div> 
+
+		
+
+	</div><!-- END div: main --> 
+
+</div><!-- END div: partyWindow --> 
+
+
+
+
+
+            </div>
+
+        </div>
+
+        <div id="chatfix"></div>
+
+        <div id="jPlayerDiv"></div>
+
+
+
+        <script type="text/javascript" language="javascript">
+
+        ChatBar.FriendsEnabled = 'True';
+
+        ChatBar.BestFriendsEnabled = 'True';
+
+        ChatBar.PartyEnabled = 'True';
+
+        ChatBar.MyUserName = "Callofdutymw2roach";
+
+        ChatBar.MaxChatWindows = 4;
+
+        ChatBar.ChatPollInterval = 4000;
+
+        ChatBar.IdleChatPollInterval = ChatBar.ChatPollInterval * ChatBar.PollIntervalFactorForIdle;
+
+        ChatBar.FriendsPollInterval = 40000;
+
+        ChatBar.BestFriendsPollInterval = 30000;
+
+        ChatBar.RecentsPollInterval = 32000;
+
+        ChatBar.ChatReceivedSoundFile = "/chat/sound/chatsound.mp3";
+
+        ChatBar.ChatNotificationsSetting = 'All';
+
+        ChatBar.DiagnosticsEnabled = false;
+
+
+
+        $(function()
+
+        {
+
+            try
+
+            {
+
+                ChatBar.OnPageLoad();
+
+            }
+
+            catch (x) { }
+
+        });
+
+        </script>
+
+        
+
+
+
+    </div>
+
+
+
+    
+
+        
+
+        
+
+        
+
+        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+
+            _uacct = "UA-486632-1";
+
+            _udn = "roblox.com";
+
+            _uccn = "rbx_campaign";
+
+            _ucmd = "rbx_medium";
+
+            _ucsr = "rbx_source";
+
+            urchinTracker();
+
+            __utmSetVar('Visitor/Member');
+
+        </script>
+
+    
+
+
+
+    
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+var Page_Validators =  new Array(document.getElementById("ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity"));
+
+//]]>
+
+</script>
+
+
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+var ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity = document.all ? document.all["ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity"] : document.getElementById("ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity");
+
+ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity.controltovalidate = "ctl00_cphRoblox_CreateSetPanel1_Name";
+
+ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity.errormessage = "This set name contains some improper words.";
+
+ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity.display = "Dynamic";
+
+ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity.evaluationfunction = "CustomValidatorEvaluateIsValid";
+
+//]]>
+
+</script>
+
+
+
+
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+if (window.chrome && window.location.hash == '#chromeInstall') {
+
+                                                window.location.hash = '';
+
+                                                var continuation = '(' + $.cookie('chromeInstall') + ')';
+
+                                                $.cookie('chromeInstall', null);RobloxLaunch._GoogleAnalyticsCallback = function() { GoogleAnalyticsEvents.FireEvent(['Play', 'User', 'Over13']);$(function(){ RobloxEventManager.triggerEvent('rbx_evt_play_user', {age:'Over13',gender:'Unknown'});}); };  Roblox.Client.ResumeTimer(eval(continuation));}$(function(){RobloxEventManager.triggerEvent('rbx_evt_abtest', { experiment: 'InstallInstructions', variation: 'BGroup'});});if(typeof __utmSetVar !== 'undefined'){ __utmSetVar(''); };(function() {var fn = function() {Roblox.Client._installSuccess = function() { urchinTracker('InstallSuccess'); };Sys.Application.remove_load(fn);};Sys.Application.add_load(fn);})();;(function() {var fn = function() {RobloxLaunch._LaunchGamePage = "/Install/Download.aspx";Sys.Application.remove_load(fn);};Sys.Application.add_load(fn);})();if(typeof __utmSetVar !== 'undefined'){ __utmSetVar('Roblox_Item_Top_728x90'); }Roblox.Controls.Image.ErrorUrl = "http://www.roblox.com/Analytics/BadHtmlImage.ashx";if(typeof __utmSetVar !== 'undefined'){ __utmSetVar('Roblox_Item_Right_160x600'); }
+
+var Page_ValidationActive = false;
+
+if (typeof(ValidatorOnLoad) == "function") {
+
+    ValidatorOnLoad();
+
+}
+
+
+
+function ValidatorOnSubmit() {
+
+    if (Page_ValidationActive) {
+
+        return ValidatorCommonOnSubmit();
+
+    }
+
+    else {
+
+        return true;
+
+    }
+
+}
+
+        
+
+document.getElementById('ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity').dispose = function() {
+
+    Array.remove(Page_Validators, document.getElementById('ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity'));
+
+}
+
+//]]>
+
+</script>
+
+</form>
+
+    
+
+</body>
+
+</html>
+
+
+            </div>
+
+        </div>
+
+        
+
+        <div id="friend_dock_chatholder">
+
+        </div>
+
+        <div id='friend_dock_minimized_container' style=display:none; >
+
+            <div style="float:right">
+
+                <a id="minChatsTab" href="#" class="tab_white19h">
+
+                    <span onclick="ChatBar.ShowFriends();return false;">
+
+                        Chat
+
+                        <img src="http://imagesak.roblox.com/d6e42c80c3ce1777817a2b418ae1fa90.png" style="border: none" />
+
+                    </span>
+
+                </a>
+
+            </div>
+
+        </div>
+
+        <div id="friend_dock_container" style= >
+
+           <div id="friend_dock_titlebar">
+
+                <div style="float:left;">
+
+                    
+
+                    <a id="bestFriendsTab" style="text-decoration: none" class="tab_white19h" href="#" onclick="ChatBar.TogglePanel('bestFriendsTab_dock_thumbnails');return false;"><span>Best Friends</span></a>
+
+                    
+
+                    <a id="friendsTab" style="text-decoration: none" class="tab_white19h" href="#" onclick="ChatBar.TogglePanel('friendsTab_dock_thumbnails');return false;"><span>Online Friends</span></a>
+
+                    
+
+                    <a id="recentsTab" style="text-decoration: none" class="tab_white19h" href="#" onclick="ChatBar.TogglePanel('recentsTab_dock_thumbnails');return false;"><span>Recent</span></a>
+
+                    <a id="chatsTab" style="text-decoration: none" class="tab_white19h" href="#" onclick="ChatBar.TogglePanel('chatsTab_dock_thumbnails_chat');return false;"><span>Chats</span></a>
+
+                </div>
+
+                <div style="float:right;">
+
+                    
+
+                        <div class="tab_white19h" id="partyTab" onclick="Party.ToggleTab(null); return false;">
+
+                            <span>
+
+                            <b><a href="#">Party</a></b>&nbsp;&nbsp;&nbsp;&nbsp;
+
+                            </span>
+
+                        </div>
+
+                      
+
+                    <div class="friend_dock_chatsettings" style="display:none">
+
+                        <div style="padding:10px 10px 10px 10px">
+
+                            <div class="chat_settings_group_header">Who can chat with me:</div>
+
+                            <input type="radio" id="chat_settings_all" name="rdoOnline" checked = checked /> <b>All Users</b><br />
+
+
+
+                            <input type="radio" id="chat_settings_friends" name="rdoOnline"  /> <b>Friends</b><br />
+
+
+
+                            <input type="radio" id="chat_settings_bestfriends" name="rdoOnline"  /> <b>Best Friends</b><br />
+
+
+
+                            <input type="radio" id="chat_settings_noone" name="rdoOnline"  /> <b>No One</b><br /><br />
+
+                             
+
+                            <hr />
+
+                            <div class="chat_settings_group_header">Who can party with me:</div>
+
+                            <input type="radio" id="party_settings_all" name="rdoOnline2" checked = checked /> <b>All Users</b><br />
+
+
+
+                            <input type="radio" id="party_settings_friends" name="rdoOnline2"  /> <b>Friends</b><br />
+
+
+
+                            <input type="radio" id="party_settings_bestfriends" name="rdoOnline2"  /> <b>Best Friends</b><br />
+
+
+
+                            <input type="radio" id="party_settings_noone" name="rdoOnline2"  /> <b>No One</b><br /><br />
+
+
+
+                              
+
+                            <hr />
+
+                            <div class="chat_settings_group_header">Chat Notifications:</div>
+
+                            <input type="radio" id="chat_settings_soundon" name="rdoNotifications" checked = checked /> <b>All</b><br />
+
+
+
+                            <input type="radio" id="chat_settings_soundoff" name="rdoNotifications"  /> <b>None</b><br />
+
+                            <div style="text-align:center; margin-top: 5px;">
+
+                                <input type="button" onclick="ChatBar.ApplySettings();$('.friend_dock_chatsettings').hide();" value="Save">
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                    <div class="tab_white19h">
+
+                        <span>
+
+                            <b><a onclick="$('.friend_dock_chatsettings').toggle(); return false" href="#">Settings</a></b>&nbsp;&nbsp;&nbsp;
+
+                            <img src="http://imagesak.roblox.com/8a762994af1e122de8ac427005ac3d9b.png" onclick="ChatBar.HideFriends();return false;" style="border: none; cursor: pointer" />
+
+                        </span>
+
+                    </div>
+
+               </div>
+
+           </div>
+
+           <div id="friend_dock_thumb_container">
+
+                <!-- Container for the dynamically generated thumbs for friends -->
+
+                <div id="friendsTab_dock_thumbnails" style="display: none">
+
+                    <div id="friendsTab_dock_thumbnails_empty" style="display:none; font-size:12px; margin-top:40px;">No results found.  Find some friends <a href="/Browse.aspx">here</a>.</div>
+
+                </div>
+
+                
+
+                <!-- Container for the dynamically generated thumbs for best friends -->
+
+                <div id="bestFriendsTab_dock_thumbnails" style="float:left; display: none">
+
+                    <div id="bestFriendsTab_dock_thumbnails_empty" style="display:none; font-size:12px; margin-top:40px;">No results? Start off by <a href="/my/editfriends.aspx">adding some Best Friends.</a></div>
+
+                </div>
+
+                
+
+                <!-- Container for the dynamically generated thumbs for recents -->
+
+                <div id="recentsTab_dock_thumbnails" style="float:left; display: none">
+
+                    <div id="recentsTab_dock_thumbnails_empty" style="display:none; font-size:12px; margin-top:40px;">You have not had any recent interactions.</div>
+
+                </div>
+
+                
+
+                <!-- Container for the dynamically generated thumbs for chats -->
+
+                <div id="chatsTab_dock_thumbnails_chat" style="float:left; display: none">
+
+                    <div id="chatsTab_dock_thumbnails_chat_empty" style="display:none; font-size:12px; margin-top:40px;">You are not currently chatting with anyone.</div>
+
+                </div>
+
+           </div>
+
+            <div id="partycontainer" style="display:none;margin-left:10px;float:right;">
+
+                
+
+        
+
+<div id="partyMemberTemplate" style="display:none;height:32px">
+
+	<div id="party_pendinguserid_UID">
+
+	    <dt style="position:relative">
+
+            <span id="UID_status" class="friend_dock_offlinestatus"></span>
+
+            [PARTY_MEMBER_THUMBNAIL]
+
+        </dt> 
+
+	    <dd> 
+
+		    <span>[PARTY_MEMBER_NAME]</span>&nbsp;&nbsp;&nbsp;[PARTY_MEMBER_REPORT][PARTY_KICK_MEMBER]
+
+		    <br /> 
+
+		    <span class="grey9">&nbsp;</span> 
+
+	    </dd> 
+
+	</div>
+
+</div>
+
+
+
+<script type="text/javascript" language="javascript">
+
+    Party.CurrentUserID = 18918326;
+
+    Party.CurrentUserName = "Callofdutymw2roach";
+
+    Party.ActiveView = "";
+
+    Party.PollThreadAvailable = true;
+
+    Party.FirstLoad = true;
+
+    Party.PollIntervalTimer = null;
+
+    Party.Cookie = new RobloxJSONCookie("PartyCookie"); 
+
+    Party.MaxPartySize = 6;
+
+    Party.PlayEnabled = true;
+
+</script>
+
+
+
+<script type="text/javascript" language="javascript">
+
+    try
+
+    {
+
+        $(function()
+
+        {
+
+            Party.ProcessPolledData(eval({"CreatorID":18918326,"GameGuid":null,"PartyGameAsset":null,"PartyGuid":"b6ef442c-3ef6-4b4b-ab18-aa9c749044ff","Members" : [{"ChatColor":"#0066FF","HasUpdates":false,"PartyGuid":"b6ef442c-3ef6-4b4b-ab18-aa9c749044ff","Pending":false,"UserID":18918326,"UserName":"Callofdutymw2roach","IsOnline" : "True","Thumbnail" : "http://t0ak.roblox.com/61549c53ae01c977edca5b9df49600ec"},{"ChatColor":"#FF9900","HasUpdates":false,"PartyGuid":"b6ef442c-3ef6-4b4b-ab18-aa9c749044ff","Pending":false,"UserID":17790167,"UserName":"Elitecyris","IsOnline" : "True","Thumbnail" : "http://t0ak.roblox.com/808396c31c86cc10f476b565bc6e5060"}],"CreatorName" : "Callofdutymw2roach","Conversation" : [{"Message":"Brb,WC.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:01:47 AM"},{"Message":"done that","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:02:36 AM"},{"Message":"Back.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:07:43 AM"},{"Message":"kk next","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:07:53 AM"},{"Message":"wats next?","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:11:00 AM"},{"Message":"I'm scamming someone.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:11:27 AM"},{"Message":"ok","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:11:49 AM"},{"Message":"one your in build mode now","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:12:55 AM"},{"Message":"Yes.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:13:01 AM"},{"Message":"Edit mode.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:13:02 AM"},{"Message":"oh edit","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:13:10 AM"},{"Message":"then?","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:13:21 AM"},{"Message":"hello then?","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:15:11 AM"},{"Message":"Okay.","RecipientID":0,"SenderUserID":18918326,"SenderUserName":"Callofdutymw2roach","TimeSent":"4\/21\/2012 8:15:42 AM"},{"Message":"wats next","RecipientID":0,"SenderUserID":17790167,"SenderUserName":"Elitecyris","TimeSent":"4\/21\/2012 8:16:38 AM"}],"CreatorName" : "Callofdutymw2roach"}));
+
+            Party.OnPageLoad();
+
+        });
+
+    }
+
+    catch (ex)
+
+    {
+
+
+
+    }
+
+</script>
+
+
+
+
+
+<div class="partyWindow" id="party_none"> 
+
+	<div id="party_none_title" class="title" onclick="Party.ToggleTab(false)">
+
+        <span>Party</span> 
+
+		<div class="closeparty">-</div>
+
+	</div> 
+
+	<div class="main"> 
+
+		<div id="new_party"> 
+
+			<p>You are not in a party.  To create a party, just invite someone:</p>
+
+			<p><input type="text" id="new_party_invite_name" class="party_invite_box" onkeydown="return Party.ProcessKey('new_party_invite_name',event)" /><input type="button" onclick="Party.DoInvite('new_party_invite_name')" value="Invite" /></p>
+
+		</div> 
+
+		<!--
+
+		<div class="btn_green21h"> 
+
+			<a href="#" onclick="Party.CreateNew(); return false">New Party</a> 
+
+		</div> 
+
+		-->
+
+		<div class="clear" id="new_party_clear"> 
+
+		</div> 
+
+	</div> 
+
+</div>
+
+
+
+<div class="partyWindow" id="party_loading" style="display:none;"> 
+
+	<div id="party_loading_title" class="title" onclick="Party.ToggleTab(false)">
+
+		<span>Party</span>  
+
+		<div class="closeparty">-</div> 
+
+	</div> 
+
+	<div class="main"> 
+
+		<div> 
+
+			<p>Invitation sent.</p>
+
+			<p>Creating party...</p>
+
+		</div> 
+
+	</div> 
+
+</div>
+
+
+
+<div class="partyWindow" id="party_pending" style="display:none;">
+
+		<div id="party_pending_title" class="title" onclick="Party.ToggleTab(false)"> 
+
+			<span>Party</span>
+
+            <div class="closeparty">-</div> 
+
+		</div>
+
+		<div class="main"> 
+
+			<div id="invite_header" style="font-weight: bold; padding: 10px; color:Green;">RobloTim wants to party with you!</div> 
+
+			<div class="members"> 
+
+				<dl id="party_invite_list"> 
+
+				</dl> 
+
+			</div><!-- END div: members --> 
+
+			
+
+			<div id="invite_status"> 
+
+				<p><span class="grey9">Invitations by Leader only</span></p> 
+
+				<p><span class="grey9">Waiting for Leader to play a game</span></p> 
+
+			</div> 
+
+			
+
+			<div class="btn_green21h"> 
+
+				<a href="#" onclick="Party.AcceptInvite();return false;">Join Party</a> 
+
+			</div> 
+
+			
+
+			<div class="btn_red21h"> 
+
+				<a href="#" onclick="Party.DeclineInvite();return false;">Ignore</a> 
+
+			</div> 
+
+			
+
+			<div class="clear" id="invite_clear"> 
+
+			</div> 
+
+		</div><!-- END div: main --> 
+
+</div> 
+
+
+
+
+
+<div class="partyWindow" id="party_my" style="display:none;"> 
+
+	<div id="party_my_title" class="title" onclick="Party.ToggleTab(false)"> 
+
+        <span>Party</span> 
+
+		<div class="closeparty">-</div> 
+
+	</div> 
+
+	<div class="main"> 
+
+		<div class="members"> 
+
+			<dl id="party_member_list"> 
+
+				
+
+			</dl> 
+
+		</div><!-- END div: members --> 
+
+		
+
+		<p id="party_invite_instructions"><span class="grey9"><input type="text" id="party_my_invite_name" class="party_invite_box" onkeydown="return Party.ProcessKey('party_my_invite_name',event)" /><input type="button" onclick="Party.DoInvite('party_my_invite_name')" value="Invite" /></span></p> 
+
+		
+
+		<div id="chat_messages"> 
+
+
+
+		</div> 
+
+		
+
+		<div id="chat_input">
+
+			<textarea name="comments" rows="2" cols="27" id="comments" tabindex="4" title="comments"></textarea>
+
+		</div> 
+
+		
+
+		
+
+		<div id="party_current_game">
+
+            <table border="0" style="padding: 0px; margin: 0px; border: 0px;">
+
+                <tr style="padding: 0px; margin: 0px; border: 0px;">
+
+                    <td style="padding: 0px; margin: 0px; border: 0px;">
+
+		                <div id="party_game_thumb">
+
+		                </div>
+
+                    </td>
+
+                    <td style="padding: 0px; margin: 0px; border: 0px;">
+
+		                <div id="party_game_name" style="float: right;">
+
+		                </div>
+
+		                <span id="party_game_follow_me" class="followme_green19h" onclick="Party.JoinGameWithParty(); return false;" ></span>
+
+		                <span class="btn_red21h">
+
+			                <a href="#" onclick="Party.DeclineInvite();return false;">Leave Party</a>
+
+		                </span>
+
+                    </td>
+
+                </tr>
+
+            </table>
+
+		</div>
+
+		
+
+		
+
+		<div class="clear" id="leader_clear"> 
+
+		</div> 
+
+		
+
+	</div><!-- END div: main --> 
+
+</div><!-- END div: partyWindow --> 
+
+
+
+
+
+            </div>
+
+        </div>
+
+        <div id="chatfix"></div>
+
+        <div id="jPlayerDiv"></div>
+
+
+
+        <script type="text/javascript" language="javascript">
+
+        ChatBar.FriendsEnabled = 'True';
+
+        ChatBar.BestFriendsEnabled = 'True';
+
+        ChatBar.PartyEnabled = 'True';
+
+        ChatBar.MyUserName = "Callofdutymw2roach";
+
+        ChatBar.MaxChatWindows = 4;
+
+        ChatBar.ChatPollInterval = 4000;
+
+        ChatBar.IdleChatPollInterval = ChatBar.ChatPollInterval * ChatBar.PollIntervalFactorForIdle;
+
+        ChatBar.FriendsPollInterval = 40000;
+
+        ChatBar.BestFriendsPollInterval = 30000;
+
+        ChatBar.RecentsPollInterval = 32000;
+
+        ChatBar.ChatReceivedSoundFile = "/chat/sound/chatsound.mp3";
+
+        ChatBar.ChatNotificationsSetting = 'All';
+
+        ChatBar.DiagnosticsEnabled = false;
+
+
+
+        $(function()
+
+        {
+
+            try
+
+            {
+
+                ChatBar.OnPageLoad();
+
+            }
+
+            catch (x) { }
+
+        });
+
+        </script>
+
+        
+
+
+
+    </div>
+
+
+
+    
+
+        
+
+        
+
+        
+
+        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+
+        <script type="text/javascript">
+
+            _uacct = "UA-486632-1";
+
+            _udn = "roblox.com";
+
+            _uccn = "rbx_campaign";
+
+            _ucmd = "rbx_medium";
+
+            _ucsr = "rbx_source";
+
+            urchinTracker();
+
+            __utmSetVar('Visitor/Member');
+
+        </script>
+
+    
+
+
+
+    
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+var Page_Validators =  new Array(document.getElementById("ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity"));
+
+//]]>
+
+</script>
+
+
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+var ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity = document.all ? document.all["ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity"] : document.getElementById("ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity");
+
+ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity.controltovalidate = "ctl00_cphRoblox_CreateSetPanel1_Name";
+
+ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity.errormessage = "This set name contains some improper words.";
+
+ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity.display = "Dynamic";
+
+ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity.evaluationfunction = "CustomValidatorEvaluateIsValid";
+
+//]]>
+
+</script>
+
+
+
+
+
+<script type="text/javascript">
+
+//<![CDATA[
+
+if (window.chrome && window.location.hash == '#chromeInstall') {
+
+                                                window.location.hash = '';
+
+                                                var continuation = '(' + $.cookie('chromeInstall') + ')';
+
+                                                $.cookie('chromeInstall', null);RobloxLaunch._GoogleAnalyticsCallback = function() { GoogleAnalyticsEvents.FireEvent(['Play', 'User', 'Over13']);$(function(){ RobloxEventManager.triggerEvent('rbx_evt_play_user', {age:'Over13',gender:'Unknown'});}); };  Roblox.Client.ResumeTimer(eval(continuation));}$(function(){RobloxEventManager.triggerEvent('rbx_evt_abtest', { experiment: 'InstallInstructions', variation: 'BGroup'});});if(typeof __utmSetVar !== 'undefined'){ __utmSetVar(''); };(function() {var fn = function() {Roblox.Client._installSuccess = function() { urchinTracker('InstallSuccess'); };Sys.Application.remove_load(fn);};Sys.Application.add_load(fn);})();;(function() {var fn = function() {RobloxLaunch._LaunchGamePage = "/Install/Download.aspx";Sys.Application.remove_load(fn);};Sys.Application.add_load(fn);})();if(typeof __utmSetVar !== 'undefined'){ __utmSetVar('Roblox_Item_Top_728x90'); }Roblox.Controls.Image.ErrorUrl = "http://www.roblox.com/Analytics/BadHtmlImage.ashx";if(typeof __utmSetVar !== 'undefined'){ __utmSetVar('Roblox_Item_Right_160x600'); }
+
+var Page_ValidationActive = false;
+
+if (typeof(ValidatorOnLoad) == "function") {
+
+    ValidatorOnLoad();
+
+}
+
+
+
+function ValidatorOnSubmit() {
+
+    if (Page_ValidationActive) {
+
+        return ValidatorCommonOnSubmit();
+
+    }
+
+    else {
+
+        return true;
+
+    }
+
+}
+
+        
+
+document.getElementById('ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity').dispose = function() {
+
+    Array.remove(Page_Validators, document.getElementById('ctl00_cphRoblox_CreateSetPanel1_CustomValidatorSetNameProfanity'));
+
+}
+
+//]]>
+
+</script>
+
+</form>
+
+    
+
+</body>
+
+

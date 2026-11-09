@@ -1,0 +1,55 @@
+	<table class="item-table"
+		   data-item-id="535776686"
+		   data-rootplace-id="1330910087"
+		   data-in-showcase="false"
+		   data-configure-url="https://web.roblox.com/universes/configure?id=535776686"
+		   data-create-badge-url="https://web.roblox.com/develop?selectedPlaceId=1330910087&amp;View=21"
+		   data-create-gamepass-url="https://web.roblox.com/develop?selectedPlaceId=1330910087&amp;View=34"
+		   data-developerstats-url="https://web.roblox.com/places/1330910087/stats"
+		   data-advertise-url="https://web.roblox.com/My/NewUserAd.aspx?targetId=1330910087&amp;targettype=Asset"
+	       data-activate-universe-url="https://develop.roblox.com/v1/universes/535776686/activate"
+		   data-deactivate-universe-url="https://develop.roblox.com/v1/universes/535776686/deactivate"
+		   data-type="universes">
+		<tr>
+			<td class="image-col universe-image-col" style="text-align: center">
+					<a href="https://web.roblox.com/universes/configure?id=535776686" class="game-image" >
+						<img src="https://t7.rbxcdn.com/b4804cf9fd02515500bd9cd7f1a294b6" alt="roblox22mepr&#39;s Place"/>
+					</a>
+			</td>
+			<td class="universe-name-col">
+				<a class="title notranslate" href="https://web.roblox.com/universes/configure?id=535776686">roblox22mepr&#39;s Place</a>
+				<table class="details-table">
+				    <tr>
+				        <td class="item-universe">
+				            <span>Start Place:</span>
+				                <a class="title notranslate start-place-url" href="https://web.roblox.com/games/1330910087/roblox22meprs-Place">roblox22mepr&#39;s Place</a>
+				        </td>
+				    </tr>
+                        <tr>
+                            <td>
+                                <span class="develop-experimental-label" data-learn-more-url="https://en.help.roblox.com/hc/en-us/articles/115003766763-Experimental-Mode">
+                                    <span class="icon-experimental-white"></span>
+                                    <span class="develop-experimental-label-text">Experimental Mode</span>
+                                </span>
+                            </td>
+                        </tr>
+											<tr class="activate-cell">
+							<td>
+								<a data-place-status-toggle="1330910087" class="place-active">Active</a>
+							</td>
+						</tr>
+				</table>
+			</td>
+				<td class="edit-col">
+					<a class="roblox-edit-button btn-control btn-control-large" href="javascript:;">Edit</a>
+				</td>
+			<td class="menu-col">
+				<div class="gear-button-wrapper">
+					<a href="#" class="gear-button"></a>
+				</div>
+			</td>
+		</tr>
+	</table>
+	<div class="separator"></div>
+
+

@@ -1,0 +1,465 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" id="www-roblox-com"> 
+<!-- MachineID: APP15 --> 
+<head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><title> 
+	Free Games at ROBLOX.com
+</title><link id="ctl00_ctl00_Imports" rel="stylesheet" type="text/css" href="../CSS/AllCSS.ashx?v=110" /><link rel="icon" type="image/vnd.microsoft.icon" href="../favicon.ico" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Content-Language" content="en-us" /><meta name="author" content="ROBLOX Corporation" /><meta name="description" content="Free Games and Building Games!  A virtual world for kids with user-created castles, cars, spaceships, swords, battles, trucks, zombies and awesome destruction.  Build, battle, chat, or just hang out online." /><meta name="keywords" content="free games, online games, building games, virtual world" /><link href="../Chat/css/robloxchat.css" rel="stylesheet" type="text/css" /></head> 
+<body> 
+    <form name="aspnetForm" method="post" action="AccountBalance.aspx" id="aspnetForm"> 
+<div> 
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" /> 
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" /> 
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzQxODg0MDA4D2QWAmYPZBYCZg9kFgRmD2QWAgIDDxYCHgdWaXNpYmxlaGQCAQ9kFgYCAw8PFgIfAGhkZAIFD2QWAgIBD2QWAgIBD2QWBGYPZBYCAgEPFgYeBmhlaWdodAUCOTAeA3NyYwU5L0Fkcy9JRnJhbWVBZENvbnRlbnQuYXNweD9zbG90PVJvYmxveF9NeVJvYmxveF9Ub3BfNzI4eDkwHgV3aWR0aAUDNzI4ZAIBD2QWBgIBD2QWAmYPZBYEAgEPFgIeBVZhbHVlBQYyNDc1OTNkAgMPDxYGHghJbWFnZVVybGQeC0NvbW1hbmROYW1lZR4PQ29tbWFuZEFyZ3VtZW50ZGRkAgMPDxYEHwcFBjI0NzU5Mx8AaGRkAgUPDxYCHwcFBjI0NzU5M2RkAhEPZBYCAgMPZBZAAgcPFgIeBFRleHQFAjEwZAIJDxYCHwhlZAIND2QWBAIBDxYCHwhlZAIDDxYCHwgFATNkAg8PZBYEAgEPFgIfCGVkAgMPFgIfCGVkAhMPFgIfCGVkAhUPFgIfCGVkAhkPFgIfCAUBMGQCGw8WAh8IBQIxM2QCHw8WAh8IBQI2MGQCIQ8WAh8IZWQCJQ9kFgQCAQ8WAh8IZWQCAw8WAh8IBQIyNWQCJw9kFgQCAQ8WAh8IZWQCAw8WAh8IZWQCKw8WAh8IZWQCLQ8WAh8IZWQCMQ8WAh8IBQEwZAIzDxYCHwgFAjg1ZAI3DxYCHwgFAjcwZAI5DxYCHwhlZAI9D2QWBAIBDxYCHwhlZAIDDxYCHwgFAjI3ZAI/D2QWBAIBDxYCHwhlZAIDDxYCHwhlZAJDDxYCHwhlZAJFDxYCHwhlZAJJDxYCHwgFATBkAksPFgIfCAUCOTdkAk8PFgIfCAUFMSwyMDBkAlEPFgIfCGVkAlUPZBYEAgEPFgIfCGVkAgMPFgIfCAUDMTExZAJXD2QWBAIBDxYCHwhlZAIDDxYCHwhlZAJbDxYCHwhlZAJdDxYCHwhlZAJhDxYCHwgFATBkAmMPFgIfCAUFMSwzMTFkGAkFH2N0bDAwJGN0bDAwJE1lbnUkaGxNeVJvYmxveExpbmsPD2QCAWQFM2N0bDAwJGN0bDAwJGNwaEJhbm5lckFkJFVzZXJCYW5uZXIkQXN5bmNBZE11bHRpVmlldw8PZGZkBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgVSY3RsMDAkY3RsMDAkQmFubmVyT3B0aW9uc0xvZ2luVmlldyRCYW5uZXJPcHRpb25zX0F1dGhlbnRpY2F0ZWQkbHNMb2dpblN0YXR1cyRjdGwwMQVSY3RsMDAkY3RsMDAkQmFubmVyT3B0aW9uc0xvZ2luVmlldyRCYW5uZXJPcHRpb25zX0F1dGhlbnRpY2F0ZWQkbHNMb2dpblN0YXR1cyRjdGwwMwVLY3RsMDAkY3RsMDAkQmFubmVyQWxlcnRzTG9naW5WaWV3JEJhbm5lckFsZXJ0c19BdXRoZW50aWNhdGVkJHJieEJhbm5lckFsZXJ0Dw9kAgFkBU9jdGwwMCRjdGwwMCRCYW5uZXJPcHRpb25zTG9naW5WaWV3JEJhbm5lck9wdGlvbnNfQXV0aGVudGljYXRlZCRyYnhCYW5uZXJPcHRpb25zDw9kAgFkBSljdGwwMCRjdGwwMCRyYnhHb29nbGVBbmFseXRpY3MkTXVsdGlWaWV3MQ8PZGZkBSFjdGwwMCRjdGwwMCRCYW5uZXJBbGVydHNMb2dpblZpZXcPD2QCAWQFImN0bDAwJGN0bDAwJEJhbm5lck9wdGlvbnNMb2dpblZpZXcPD2QCAWQFHmN0bDAwJGN0bDAwJEFkbWluUGFuZUxvZ2luVmlldw8PZAIBZCCCVbY2MsLTJS3VmYJfGpz4hmT7" /> 
+</div> 
+ 
+<script type="text/javascript"> 
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script> 
+ 
+ 
+<script src="/WebResource.axd?d=XHIoKoHsJZnwChFT3TH9Bg2&amp;t=633834015612265882" type="text/javascript"></script> 
+ 
+ 
+<script src="/ScriptResource.axd?d=v77yJSwCrOSi2gBXX-qnf47CzVYSRPk3OwsHDaNkBR7uOsMuQitv6roBCy2ky-BGxNRCKP5JzJYtWCOjiIRW_Y08TR6DMMEy8xwr-Qsgmok5-q76_-zMtmP8W0x9GE9KY9N9KKTCottOCZeQMeXhTMXWiyUwe_zVA3vzDsfGCzUlaxPbolJCOC4n8-mh4jsnexVa_hZ1cponc2MLwj_6vw2" type="text/javascript"></script> 
+<div> 
+ 
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwKVnN+pCALOgcPDDwLWjP2QD6lT7SW6Ui1mlXNc0i7d/iff3XUV" /> 
+</div> 
+    <script type="text/javascript"> 
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl00$ScriptManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script> 
+ 
+    
+    <div id="MasterContainer"> 
+        <script src="/Chat/js/jquery-1.3.2.min.js" type="text/javascript"></script> 
+        <script src="/js/AjaxHelper.js" type="text/javascript"></script> 
+ 
+        <div id="Container"> 
+            
+    <div id="AdvertisingLeaderboard"> 
+        
+ 
+<div style="overflow: hidden;"> 
+    
+            <iframe id="ctl00_ctl00_cphBannerAd_UserBanner_AsyncAdIFrame" allowtransparency="true" frameborder="0" scrolling="no" height="90" src="/Ads/IFrameAdContent.aspx?slot=Roblox_MyRoblox_Top_728x90" width="728"></iframe> 
+            <a id="ctl00_ctl00_cphBannerAd_UserBanner_ReportAdButton" title="click to give feedback on an ad" class="BadAdButton" href="javascript:__doPostBack('ctl00$ctl00$cphBannerAd$UserBanner$ReportAdButton','')">[ feedback ]</a> 
+        
+</div> 
+    </div> 
+ 
+            <div id="Header"> 
+                <div id="Banner"> 
+                    
+                            
+ 
+<div id="Options"> 
+	<div id="Authentication"> 
+		<span><span id="ctl00_ctl00_BannerOptionsLoginView_BannerOptions_Authenticated_lnLoginName">Logged in as isaiahroblox | </span><a id="ctl00_ctl00_BannerOptionsLoginView_BannerOptions_Authenticated_lsLoginStatus" href="javascript:__doPostBack('ctl00$ctl00$BannerOptionsLoginView$BannerOptions_Authenticated$lsLoginStatus$ctl00','')">Logout</a></span> 
+	</div> 
+  	<div id="Settings"> 
+    
+        	Age: 13+, Safety Mode: Filter
+	    
+	</div> 
+</div> 
+                        
+                    <div id="Logo"> 
+                        <a id="ctl00_ctl00_rbxImage_Logo" title="Free Games at ROBLOX.com - Home" href="/" style="display:inline-block;height:59px;width:224px;cursor:pointer;"><img src="/images/roblox_logo.png" border="0" onerror="return Roblox.Controls.Image.OnError(this)" alt="Free Games at ROBLOX.com - Home" /></a> 
+                    </div> 
+                    
+                            
+ 
+<div id="Alerts"> 
+    <table style="width:100%;height:100%"> 
+    <tr> 
+        <td valign="middle"> 
+            
+                
+ 
+<div id="ctl00_ctl00_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_AlertSpacePanel"> 
+	
+	    <div id="AlertSpace"> 
+		    
+		    <div id="ctl00_ctl00_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_RobuxAlertPanel"> 
+		
+			    <div id="RobuxAlert"> 
+			        <a id="ctl00_ctl00_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_RobuxAlertIconHyperLink" class="RobuxAlertIcon" href="AccountBalance.aspx"><img src="../images/Robux.png" style="border-width:0px;" /></a>&nbsp;
+				    <a id="ctl00_ctl00_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_RobuxAlertCaptionHyperLink" class="RobuxAlertCaption" href="AccountBalance.aspx">24 ROBUX</a> 
+			    </div> 
+		    
+	</div> 
+		    <div id="ctl00_ctl00_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_TicketsAlertPanel"> 
+		
+			    <div id="TicketsAlert"> 
+			        <a id="ctl00_ctl00_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_TicketsAlertIconHyperLink" class="TicketsAlertIcon" href="AccountBalance.aspx"><img src="../images/Tickets.png" style="border-width:0px;" /></a>&nbsp;
+				    <a id="ctl00_ctl00_BannerAlertsLoginView_BannerAlerts_Authenticated_rbxBannerAlert_rbxAlerts_TicketsAlertCaptionHyperLink" class="TicketsAlertCaption" href="AccountBalance.aspx">13 Tickets</a> 
+			    </div> 
+		    
+	</div> 
+	    </div> 
+ 
+</div> 
+            
+        </td> 
+    </tr> 
+    </table> 
+</div> 
+                        
+                </div> 
+                
+ 
+<div class="Navigation"> 
+	
+	        <span><a id="ctl00_ctl00_Menu_hlMyRobloxLink_hlMyRoblox" class="MenuItem" href="Home.aspx" style="font-weight:bold;">My ROBLOX</a></span> 
+	    
+	<span class="Separator">&nbsp;|&nbsp;</span> 
+	<span><a id="hlGames" class="MenuItem" href="/Games.aspx" style="" title="Games">Games</a></span> 
+	<span class="Separator">&nbsp;|&nbsp;</span> 
+	<span><a id="hlCatalog" class="MenuItem" href="/Catalog.aspx" style="" title="Catalog">Catalog</a></span> 
+	<span class="Separator">&nbsp;|&nbsp;</span> 
+	<span><a id="hlBrowse" class="MenuItem" href="/Browse.aspx" style="" title="People">People</a></span> 
+	<span class="Separator">&nbsp;|&nbsp;</span> 
+    <span><a id="hlBuildersClub" class="MenuItem" onclick="" href="/Upgrades/BuildersClub.aspx" style="" title="Builders Club">Builders Club</a></span> 
+	<span class="Separator">&nbsp;|&nbsp;</span> 
+	<span><a id="hlForum" class="MenuItem" onclick="" href="/Forum/Default.aspx" style="" title="Forum">Forum</a></span> 
+	<span class="Separator">&nbsp;|&nbsp;</span> 
+	<span><a id="hlNews" class="MenuItem" href="http://blog.roblox.com/" target="_blank" title="News">News</a>&nbsp;<a id="hlNewsFeed" href="http://blog.roblox.com/?feed=rss" title="RSS"><img src="/images/feed-icons/feed-icon-14x14.png" alt="RSS" border="0" /></a> <a id="h1Twitter" href="http://www.twitter.com/roblox" target="_blank" title="The ROBLOX Twitter Feed" /><img src="/images/twitter.png" border="0" alt="The ROBLOX Twitter Feed" /></a></span> 
+XML self-closing tag syntax used on <a>. The tag will not be closed.
+	<span class="Separator">&nbsp;|&nbsp;</span> 
+	<span><a id="hlParents" class="MenuItem" href="/Parents.aspx" style="" title="Parents">Parents</a></span> 
+	<span class="Separator">&nbsp;|&nbsp;</span> 
+	<span><a id="hlHelp" class="MenuItem" href="/Help/Builderman.aspx" style="" title="Help">Help</a></span> 
+	
+ 
+</div> 
+            </div> 
+            
+            <div id="Body"> 
+                
+    <!-- My Roblox subMenu --> 
+    <div id="ctl00_ctl00_cphRoblox_subMenu" class="subMenu"> 
+        <ul> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/Home.aspx">Home</a></li> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/Places.aspx">Places</a></li> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/Inbox.aspx">Inbox</a></li> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/Profile.aspx">Account</a></li> 
+            <li><a href="http://www.roblox.com/User.aspx?submenu=true">Profile</a></li> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/EditFriends.aspx">Friends</a></li> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/Character.aspx">Character</a></li> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/Stuff.aspx">Stuff</a></li> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/Groups.aspx">Groups</a></li> 
+            <li><a class="subMenuItemselected"
+
+                href="http://www.roblox.com/My/AccountBalance.aspx">Money</a></li> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/AdInventory.aspx">Advertising</a></li> 
+            <li><a class=""
+
+                href="http://www.roblox.com/My/LinkInventory.aspx">Ambassadors</a></li> 
+            <li><!--[if IE 6]><span id="IE6mouseoverfix" onmouseover="$('#IE6Table').css('display', 'block');" onmouseout="$('#IE6Table').css('display', 'none');"><![endif]--> 
+            <a style="border: none;" class=""
+
+                href="http://www.roblox.com/My/InviteAFriend.aspx">Share Roblox</a> 
+                <ul> 
+                    <li><a href="http://www.roblox.com/My/Share/PleaseUpgradeMe.aspx">Please Upgrade Me</a></li> 
+                    <li><a href="http://www.roblox.com/My/InviteAFriend.aspx">Invite A Friend</a></li> 
+                </ul> 
+                <!--[if IE 6]>
+                    <table id="IE6Table">
+                        <tr>
+                            <td><a href="http://www.roblox.com/My/Share/PleaseUpgradeMe.aspx">Please Upgrade Me</a></td>
+                        </tr>
+                        <tr>
+                            <td><a href="http://www.roblox.com/My/InviteAFriend.aspx">Invite A Friend</a></td>
+                        </tr>
+                    </table>
+                <![endif]--> 
+                <!--[if IE 6]></span><![endif]--> 
+            </li> 
+        </ul> 
+    </div> 
+    <!-- Stick My Roblox page content in here --> 
+    
+    <div style="height:28px;font-family:Verdana, Helvetica, Sans-Serif; font-size:20px; font-weight:bold; clear:both; display:block;"> 
+        My Account Balance
+    </div> 
+    <br clear="all" /> 
+    
+    <div class="Column1c" id="MyAccountBalanceContainer">	
+		
+		<div style="width:584px;" class="StandardBoxHeader"> 
+		Earnings
+		</div> 
+		<div style="height:580px; width:580px; font-family:Verdana, Helvetica, Sans-Serif;" class="StandardBox"> 
+			<div class="Earnings_Period" style="height:15px;"> 
+                <div class="Label">&nbsp;</div> 
+                <div class="Field"><img id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_RobuxIcon" src="../images/Robux.png" alt="Robux" style="border-width:0px;" />&nbsp;</div> 
+                <div class="Field"><img id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_TicketsIcon" src="../images/Tickets.png" alt="Tickets" style="border-width:0px;" />&nbsp;</div>	
+			</div> 
+			<div class="Earnings_Period" style="height:110px;"> 
+				<h4>Past Day</h4> 
+				<div class="Earnings_LoginAward"> 
+					<div class="Label">Login Award</div> 
+					<div class="Field"> </div> 
+					<div class="Field">10</div> 
+				</div> 
+        		<div class="Earnings_LoginAwardBC"> 
+					<div class="Label">Builders Club Stipend</div> 
+					<div class="Field"></div> 
+					<div class="Field"> </div> 
+				</div> 
+				<div id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_Earnings_PastDay_PlaceTrafficAward" class="Earnings_PlaceTrafficAward"> 
+					<div class="Label">Place Traffic Award</div> 
+					<div class="Field"></div> 
+					<div class="Field">3</div> 
+				</div> 
+				<div id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_Earnings_PastDay_SaleOfGoods" class="Earnings_SaleOfGoods"> 
+					<div class="Label">Sale of Goods</div> 
+					<div class="Field"></div> 
+					<div class="Field"></div> 
+				</div> 
+				<div class="Earnings_Ambassador"> 
+					<div class="Label">Ambassador Links</div> 
+					<div class="Field"> </div> 
+					<div class="Field"></div> 
+				</div> 
+				<div class="Earnings_Currency"> 
+					<div class="Label">Currency Purchase</div> 
+					<div class="Field"></div> 
+					<div class="Field"> </div> 
+				</div> 
+				<div class="Earnings_PeriodTotal"> 
+					<div class="Label">Total:</div> 
+					<div class="Field">0</div> 
+					<div class="Field">13</div> 
+				</div> 
+			</div> 
+			<div class="Earnings_Period" style="height:110px;"> 
+				<h4>Past Week</h4> 
+				<div class="Earnings_LoginAward"> 
+					<div class="Label">Login Award</div> 
+					<div class="Field"> </div> 
+					<div class="Field">60</div> 
+				</div> 
+				<div class="Earnings_LoginAwardBC"> 
+					<div class="Label">Builders Club Stipend</div> 
+					<div class="Field"></div> 
+					<div class="Field"> </div> 
+				</div> 
+				<div id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_Earnings_PastWeek_PlaceTrafficAward" class="Earnings_PlaceTrafficAward"> 
+					<div class="Label">Place Traffic Award</div> 
+					<div class="Field"></div> 
+					<div class="Field">25</div> 
+				</div> 
+				<div id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_Earnings_PastWeek_SaleOfGoods" class="Earnings_SaleOfGoods"> 
+					<div class="Label">Sale of Goods</div> 
+					<div class="Field"></div> 
+					<div class="Field"></div> 
+				</div> 
+				<div class="Earnings_Ambassador"> 
+					<div class="Label">Ambassador Links</div> 
+					<div class="Field"> </div> 
+					<div class="Field"></div> 
+				</div> 
+				<div class="Earnings_Currency"> 
+					<div class="Label">Currency Purchase</div> 
+					<div class="Field"></div> 
+					<div class="Field"> </div> 
+				</div> 
+				<div class="Earnings_PeriodTotal"> 
+					<div class="Label">Total:</div> 
+					<div class="Field">0</div> 
+					<div class="Field">85</div> 
+				</div> 
+			</div> 
+			<div class="Earnings_Period" style="height:110px;"> 
+				<h4>Past Month</h4> 
+				<div class="Earnings_LoginAward"> 
+					<div class="Label">Login Award</div> 
+					<div class="Field"> </div> 
+					<div class="Field">70</div> 
+				</div> 
+				<div class="Earnings_LoginAwardBC"> 
+					<div class="Label">Builders Club Stipend</div> 
+					<div class="Field"></div> 
+					<div class="Field"> </div> 
+				</div> 
+				<div id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_Earnings_PastMonth_PlaceTrafficAward" class="Earnings_PlaceTrafficAward"> 
+					<div class="Label">Place Traffic Award</div> 
+					<div class="Field"></div> 
+					<div class="Field">27</div> 
+				</div> 
+				<div id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_Earnings_PastMonth_SaleOfGoods" class="Earnings_SaleOfGoods"> 
+					<div class="Label">Sale of Goods</div> 
+					<div class="Field"></div> 
+					<div class="Field"></div> 
+				</div> 
+				<div class="Earnings_Ambassador"> 
+					<div class="Label">Ambassador Links</div> 
+					<div class="Field"> </div> 
+					<div class="Field"></div> 
+				</div> 
+				<div class="Earnings_Currency"> 
+					<div class="Label">Currency Purchase</div> 
+					<div class="Field"></div> 
+					<div class="Field"> </div> 
+				</div> 
+				<div class="Earnings_PeriodTotal"> 
+					<div class="Label">Total:</div> 
+					<div class="Field">0</div> 
+					<div class="Field">97</div> 
+				</div> 
+			</div> 
+			<div class="Earnings_Period" style="height:110px;"> 
+				<h4>All Time</h4> 
+				<div class="Earnings_LoginAward"> 
+					<div class="Label">Login Award</div> 
+					<div class="Field"> </div> 
+					<div class="Field">1,200</div> 
+				</div> 
+				<div class="Earnings_LoginAwardBC"> 
+					<div class="Label">Builders Club Stipend</div> 
+					<div class="Field"></div> 
+					<div class="Field"> </div> 
+				</div> 
+				<div id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_Earnings_AllTime_PlaceTrafficAward" class="Earnings_PlaceTrafficAward"> 
+					<div class="Label">Place Traffic Award</div> 
+					<div class="Field"></div> 
+					<div class="Field">111</div> 
+				</div> 
+				<div id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_Earnings_AllTime_SaleOfGoods" class="Earnings_SaleOfGoods"> 
+					<div class="Label">Sale of Goods</div> 
+					<div class="Field"></div> 
+					<div class="Field"></div> 
+				</div> 
+				<div class="Earnings_Ambassador"> 
+					<div class="Label">Ambassador Links</div> 
+					<div class="Field"> </div> 
+					<div class="Field"></div> 
+				</div> 
+				<div class="Earnings_Currency"> 
+					<div class="Label">Currency Purchase</div> 
+					<div class="Field"></div> 
+					<div class="Field"> </div> 
+				</div> 
+				<div class="Earnings_PeriodTotal"> 
+					<div class="Label">Total:</div> 
+					<div class="Field">0</div> 
+					<div class="Field">1,311</div> 
+				</div> 
+			</div> 
+		</div> 
+	</div> 
+	
+	<div class="Column2c" style="font-family:Verdana, Helvetica, Sans-Serif;"> 
+	    <div class="StandardBoxHeader"> 
+	    My Money
+	    </div> 
+	    <div class="StandardBox"> 
+	    			<ul style="font-size:14px;"> 
+			<li><a href="/marketplace/tradecurrency.aspx">Trade Currency</b></a></li> 
+Unmatched </b> encountered.  Ignoring tag.
+			<li><a href="/upgrades/robux.aspx">Buy Robux</a></li> 
+			</ul> 
+	    </div> 
+	    
+	    <div class="StandardBoxHeader">What are ROBUX?</div> 
+	    <div class="StandardBox"> 
+	    ROBUX are the principle currency of Robloxia. Citizens in the Builders Club receive a daily allowance of ROBUX to help them live a comfortable life of leisure. For this and other benefits, consider joining <a id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_BuildersClubHyperLink" href="../Upgrades/BuildersClub.aspx">Builders Club</a>!  Alternately, you can <a id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_CurrencyPurchaseHyperLink" href="../Upgrades/Robux.aspx">purchase ROBUX</a> using our secure payment system.
+	    </div> 
+	    
+	    <div class="StandardBoxHeader">What are Tickets?</div> 
+	    <div class="StandardBox"> 
+	    Robloxian Tickets are similar to tickets you win in an arcade. You play the game, get tickets, and are rewarded with fabulous prizes. Tickets are granted to citizens who are helping to expand and improve Robloxia. The primary way to get tickets is to make a cool place, and then get people to visit it. You can also get the daily login bonus, just by showing up!
+	    </div> 
+	    
+	    <div class="StandardBoxHeader"> 
+	    Where do I buy things?
+	    </div> 
+	    <div class="StandardBox"> 
+	    Browse the <a id="ctl00_ctl00_cphRoblox_cphMyRobloxContent_CatalogHyperLink" href="../Catalog.aspx">ROBLOX Catalog</a></p> 
+Unmatched </p> encountered.  Converting </p> into <p></p>.
+	    </div> 
+	</div> 
+	<br clear="all" /> 
+ 
+ 
+            </div> 
+            
+<div id="Footer"> 
+    <hr /> 
+    <div class="FooterNav"> 
+        <a id="ctl00_ctl00_rbxFooter_PrivacyHyperLink" href="../info/Privacy.aspx"><b>Privacy Policy</b></a> 
+        &nbsp;|&nbsp; 
+        <a id="ctl00_ctl00_rbxFooter_AdvertiseHyperLink" href="http://sales.roblox.com">Advertise with Us</a> 
+        &nbsp;|&nbsp; 
+        <a id="ctl00_ctl00_rbxFooter_ContactHyperLink" href="../info/ContactUs.aspx">Contact Us</a> 
+        &nbsp;|&nbsp;
+        <a id="ctl00_ctl00_rbxFooter_AboutHyperLink" href="../info/About.aspx">About Us</a> 
+        &nbsp;|&nbsp;
+        <a id="ctl00_ctl00_rbxFooter_FreeGamesHyperLink" href="../FreeGames.aspx">Free Games</a> 
+        &nbsp;|&nbsp;
+        <a id="ctl00_ctl00_rbxFooter_ResourcesHyperLink" href="../info/RelatedResources.aspx">Related Resources</a> 
+        &nbsp;|&nbsp;
+        <a id="ctl00_ctl00_rbxFooter_JobsHyperLink" href="http://jobs.roblox.com">Jobs</a> 
+    </div> 
+    <hr /> 
+    <p class="Legalese"> 
+        ROBLOX, "Online Building Toy", characters, logos, names, and all related indicia are trademarks of <a id="ctl00_ctl00_rbxFooter_hlRobloxCorporation" href="../info/About.aspx">ROBLOX Corporation</a>, �2009. Patents pending.
+        <br /> 
+        ROBLOX is not sponsored, authorized or endorsed by any producer of plastic building bricks, including The LEGO Group, MEGA Brands, and K'Nex,<br /> and no resemblance to the products of these companies is intended.<br />Use of this site signifies your acceptance of the <a id="ctl00_ctl00_rbxFooter_hlTermsOfService" href="../info/TermsOfService.aspx">Terms and Conditions</a>.
+        <br /> 
+        <img src="http://media.fastclick.net/w/tre?ad_id=20713;evt=13114;cat1=14473;cat2=14474" id="ctl00_ctl00_rbxFooter_fastclick" border="0" height="1" width="1" /> 
+    </p> 
+</div> 
+        </div> 
+    </div> 
+    
+    
+        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script> 
+        <script type="text/javascript">_uacct="UA-486632-1"; _udn="roblox.com"; urchinTracker(); __utmSetVar('Visitor/Member');</script> 
+    
+ 
+    
+    
+    
+ 
+<script type="text/javascript"> 
+//<![CDATA[
+__utmSetVar('Roblox_MyRoblox_Top_728x90');Roblox.Controls.Image.ErrorUrl = "http://www.roblox.com/Analytics/BadHtmlImage.ashx";Sys.Application.initialize();
+//]]>
+</script> 
+</form> 
+</body> 
+</html>

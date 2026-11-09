@@ -1,0 +1,1 @@
+{"id":null,"maxPlayers":50,"playing":0,"playerTokens":[],"players":[],"fps":0,"ping":0,"name":"Aassddsad","vipServerId":3264541159,"accessCode":"bbbdc48a-0129-4819-a98e-ceeb3c6743ff","owner":{"hasVerifiedBadge":false,"id":1066330859,"name":"coolboy791245","displayName":"米卡特"}}  

@@ -1,0 +1,296 @@
+<div id="MasterContainer">
+<div id="Container">
+<div id="AdvertisingLeaderboard"></div>
+<div id="Header">
+<div id="Banner">
+<div id="Options">
+<div id="Authentication">
+		<span><a id="ctl00_BannerOptionsLoginView_BannerOptions_Anonymous_LoginHyperLink" href="Default.aspx">Login</a></span>
+	</div>
+<div id="Settings"></div>
+</div>
+<p>                            <a id="Logo" href="/Default.aspx" style="border:medium none;cursor:pointer;"></a></p>
+<div style="float:right;width:203px;">
+    <a id="ctl00_BannerAlertsLoginView_BannerAlerts_Anonymous_rbxAlerts_SignupAndPlayHyperLink" class="SignUpAndPlay" href="/Games.aspx" style="display:inline-block;height:40px;width:210px;cursor:pointer;"><img src="/images/Holiday3Button.png" border="0"></a></p>
+</div></div>
+<div class="Navigation">
+<p>	        <span><a id="ctl00_Menu_hlMyRobloxLink_hlMyRoblox" class="MenuItem" href="../My/Home.aspx">My ROBLOX</a></span></p>
+<p>	<span class="Separator">&nbsp;|&nbsp;</span><br />
+	<span><a id="hlGames" class="MenuItem" href="/Games.aspx" title="Games">Games</a></span><br />
+	<span class="Separator">&nbsp;|&nbsp;</span><br />
+	<span><a id="hlCatalog" class="MenuItem" href="/Catalog.aspx" title="Catalog">Catalog</a></span><br />
+	<span class="Separator">&nbsp;|&nbsp;</span><br />
+	<span><a id="hlBrowse" class="MenuItem" href="/Browse.aspx" title="People">People</a></span><br />
+	<span class="Separator">&nbsp;|&nbsp;</span><br />
+    <span><a id="hlBuildersClub" class="MenuItem" href="/Upgrades/BuildersClub.aspx" title="Builders Club">Builders Club</a></span><br />
+	<span class="Separator">&nbsp;|&nbsp;</span><br />
+	<span><a id="hlForum" class="MenuItem" href="/Forum/Default.aspx" title="Forum">Forum</a></span><br />
+	<span class="Separator">&nbsp;|&nbsp;</span><br />
+	<span><a id="hlNews" class="MenuItem" href="http://blog.roblox.com/" target="_blank" title="News">News</a>&nbsp;<a id="hlNewsFeed" href="http://blog.roblox.com/?feed=rss" title="RSS"><img src="/images/feed-icons/feed-icon-14x14.png" alt="RSS" border="0"></a> <a id="h1Twitter" href="http://www.twitter.com/roblox" target="_blank" title="The ROBLOX Twitter Feed"><img src="/images/twitter.png?v=2" alt="The ROBLOX Twitter Feed" border="0"></a></span><br />
+	<span class="Separator">&nbsp;|&nbsp;</span><br />
+	<span><a id="hlParents" class="MenuItem" href="/Parents.aspx" title="Parents">Parents</a></span><br />
+	<span class="Separator">&nbsp;|&nbsp;</span><br />
+	<span><a id="hlHelp" class="MenuItem" href="/Help/Builderman.aspx" title="Help">Help</a></span></p>
+</div></div>
+<div id="Body">
+<div class="MyRobloxContainer">
+<p>            $(function() {<br />
+                var $username = $("#ctl00_cphRoblox_lRobloxLogin_UserName");<br />
+                var $password = $("#ctl00_cphRoblox_lRobloxLogin_Password");</p>
+<p>                $username.focus(function() {<br />
+                    $(this).css("border-color", "#A5D0FF");<br />
+                });<br />
+                $username.blur(function() {<br />
+                    $(this).css("border-color", "#CCCCCC");<br />
+                });<br />
+                $password.focus(function() {<br />
+                    $(this).css("border-color", "#A5D0FF");<br />
+                });<br />
+                $password.blur(function() {<br />
+                    $(this).css("border-color", "#CCCCCC");<br />
+                });<br />
+            });</p>
+<div id="ctl00_cphRoblox_loginScript">
+<p>                $(function() {<br />
+                    $("#newLogin").css("border-color", "#8F1327");<br />
+                    $("#newLoginHeader").css("background", "#8F1327");<br />
+                });</p></div>
+<div style="clear:both;">
+        </div>
+<div class="Column1a">
+<div style="background:rgb(143,19,39) none repeat scroll 0 0;" class="StandardBoxHeader" id="newLoginHeader">
+                Login with Existing Account</div>
+<div class="StandardBox" id="newLogin" style="height:137px;border-color:rgb(143,19,39);">
+<div id="ctl00_cphRoblox_LOLOLOLOL">
+<div class="AspNet-Login">
+<table style="margin:0 auto;">
+<tbody>
+<tr>
+<td colspan="2" style="color:rgb(255,0,0);">
+</td>
+</tr>
+<tr>
+<td style="text-align:right;">
+                                        Username:
+                                    </td>
+<td>
+<p>                                        <span id="ctl00_cphRoblox_lRobloxLogin_UserNameRequired" style="color:Red;visibility:hidden;">*</span>
+                                    </td>
+</tr>
+<tr>
+<td style="text-align:right;">
+                                        Password:
+                                    </td>
+<td>
+<p>                                        <span id="ctl00_cphRoblox_lRobloxLogin_PasswordRequired" style="color:Red;visibility:hidden;">*</span>
+                                    </td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p>
+                                            <a href="ResetPasswordRequest.aspx">Forgot your password?</a>
+                                        </p>
+</td>
+</tr>
+</tbody>
+</table></div>
+</div></div>
+</p></div>
+<div class="Column2a">
+<div id="ctl00_cphRoblox_NewUserPanel2">
+<div class="StandardBoxHeader" id="newSignupBoxHeader">
+                    Create a Free ROBLOX Account</div>
+<div class="StandardBox" id="newSignupBox" style="height:137px;">
+<div id="ctl00_cphRoblox_upAccountRegistration">
+<p>
+                                Creating an account on ROBLOX allows you to customize your character, make friends,<br />
+                                build places, earn money, and more!
+                            </p>
+<p>                                <span style="font-size:15px;">Your Date of Birth:</span></p>
+<p>		Select Month<br />
+		January<br />
+		February<br />
+		March<br />
+		April<br />
+		May<br />
+		June<br />
+		July<br />
+		August<br />
+		September<br />
+		October<br />
+		November<br />
+		December</p>
+<p>                                &nbsp;&nbsp;</p>
+<p>		Select Year<br />
+		2009<br />
+		2008<br />
+		2007<br />
+		2006<br />
+		2005<br />
+		2004<br />
+		2003<br />
+		2002<br />
+		2001<br />
+		2000<br />
+		1999<br />
+		1998<br />
+		1997<br />
+		1996<br />
+		1995<br />
+		1994<br />
+		1993<br />
+		1992<br />
+		1991<br />
+		1990<br />
+		1989<br />
+		1988<br />
+		1987<br />
+		1986<br />
+		1985<br />
+		1984<br />
+		1983<br />
+		1982<br />
+		1981<br />
+		1980<br />
+		1979<br />
+		1978<br />
+		1977<br />
+		1976<br />
+		1975<br />
+		1974<br />
+		1973<br />
+		1972<br />
+		1971<br />
+		1970<br />
+		1969<br />
+		1968<br />
+		1967<br />
+		1966<br />
+		1965<br />
+		1964<br />
+		1963<br />
+		1962<br />
+		1961<br />
+		1960<br />
+		1959<br />
+		1958<br />
+		1957<br />
+		1956<br />
+		1955<br />
+		1954<br />
+		1953<br />
+		1952<br />
+		1951<br />
+		1950<br />
+		1949<br />
+		1948<br />
+		1947<br />
+		1946<br />
+		1945<br />
+		1944<br />
+		1943<br />
+		1942<br />
+		1941<br />
+		1940<br />
+		1939<br />
+		1938<br />
+		1937<br />
+		1936<br />
+		1935<br />
+		1934<br />
+		1933<br />
+		1932<br />
+		1931<br />
+		1930<br />
+		1929<br />
+		1928<br />
+		1927<br />
+		1926<br />
+		1925<br />
+		1924<br />
+		1923<br />
+		1922<br />
+		1921<br />
+		1920<br />
+		1919<br />
+		1918<br />
+		1917<br />
+		1916<br />
+		1915<br />
+		1914<br />
+		1913<br />
+		1912<br />
+		1911<br />
+		1910</p>
+<p>                                &nbsp;&nbsp;</p>
+<p>                                <i>Your birthday will not be saved or given out to any third party!</i></p>
+<p></p>
+</div></div>
+</p></div>
+</p></div>
+<div style="clear:both;">
+<div class="StandardBoxHeader" style="background:rgb(68,68,68) none repeat scroll 0 0;">
+            You don't need an account to play ROBLOX</div>
+<div class="StandardBox" style="border-color:rgb(68,68,68);">
+<div id="ctl00_cphRoblox_GuestMode" style="text-align:center;">
+<p>
+                    You can start playing right now, in guest mode! Just click on the game you want<br />
+                    to play.</p>
+<p>                <a id="ctl00_cphRoblox_PlayNow" class="MediumButton" href="../Games.aspx" style="text-decoration:none;color:rgb(34,34,34);width:20%;">Play as Guest</a></p>
+</div></div>
+</p></div>
+<div style="clear:both;"></div>
+<div id="Footer">
+<hr>
+<div class="FooterNav">
+        <a id="ctl00_rbxFooter_PrivacyHyperLink" href="../info/Privacy.aspx"><b>Privacy Policy</b></a><br />
+        &nbsp;|&nbsp;<br />
+        <a id="ctl00_rbxFooter_AdvertiseHyperLink" href="http://sales.roblox.com">Advertise with Us</a><br />
+        &nbsp;|&nbsp;<br />
+        <a id="ctl00_rbxFooter_ContactHyperLink" href="../info/ContactUs.aspx">Contact Us</a><br />
+        &nbsp;|&nbsp;<br />
+        <a id="ctl00_rbxFooter_AboutHyperLink" href="../info/About.aspx">About Us</a><br />
+        &nbsp;|&nbsp;<br />
+        <a id="ctl00_rbxFooter_FreeGamesHyperLink" href="../FreeGames.aspx">Free Games</a><br />
+        &nbsp;|&nbsp;<br />
+        <a id="ctl00_rbxFooter_JobsHyperLink" href="http://jobs.roblox.com">Jobs</a>
+    </div>
+<hr>
+<p class="Legalese">
+        ROBLOX, "Online Building Toy", characters, logos, names, and all related indicia are trademarks of <a id="ctl00_rbxFooter_hlRobloxCorporation" href="../info/About.aspx">ROBLOX Corporation</a>, ©2010. Patents pending.<br />
+        <br />
+        ROBLOX is not sponsored, authorized or endorsed by any producer of plastic building bricks, including The LEGO Group, MEGA Brands, and K'Nex,<br /> and no resemblance to the products of these companies is intended.<br />Use of this site signifies your acceptance of the <a id="ctl00_rbxFooter_hlTermsOfService" href="../info/TermsOfService.aspx">Terms and Conditions</a>.<br />
+        
+    </p>
+</div></div>
+</p></div>
+<p>        _uacct="UA-486632-1"; _udn="roblox.com"; urchinTracker(); __utmSetVar('Visitor/Anonymous');</p>
+<p>//</p>
+<p>//</p>
+<p>// new Date('1/18/2010 11:17:16 PM')){alert('Your system time is incorrect.') };Roblox.Controls.Image.ErrorUrl = "https://www.roblox.com/Analytics/BadHtmlImage.ashx&amp;";
+var Page_ValidationActive = false;<br />
+if (typeof(ValidatorOnLoad) == "function") {<br />
+    ValidatorOnLoad();<br />
+}</p>
+<p>function ValidatorOnSubmit() {<br />
+    if (Page_ValidationActive) {<br />
+        return ValidatorCommonOnSubmit();<br />
+    }<br />
+    else {<br />
+        return true;<br />
+    }<br />
+}<br />
+        WebForm_AutoFocus('ctl00_cphRoblox_lRobloxLogin_UserName');Sys.Application.initialize();</p>
+<p>document.getElementById('ctl00_cphRoblox_lRobloxLogin_UserNameRequired').dispose = function() {<br />
+    Array.remove(Page_Validators, document.getElementById('ctl00_cphRoblox_lRobloxLogin_UserNameRequired'));<br />
+}</p>
+<p>document.getElementById('ctl00_cphRoblox_lRobloxLogin_PasswordRequired').dispose = function() {<br />
+    Array.remove(Page_Validators, document.getElementById('ctl00_cphRoblox_lRobloxLogin_PasswordRequired'));<br />
+}<br />
+//]]&gt;</p>
+</div>
+</div>

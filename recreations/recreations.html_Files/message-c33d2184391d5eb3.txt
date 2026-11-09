@@ -1,0 +1,218 @@
+<div id="Body"><!-- My Roblox subMenu -->
+<div id="ctl00_ctl00_cphRoblox_subMenu" class="subMenu">
+<ul>
+<li><a class="subMenuItemselected" href="/My/Home.aspx">Home</a></li>
+<li><a href="/My/Places.aspx">Places</a></li>
+<li><a href="/My/Messages.aspx">Inbox</a></li>
+<li><a href="/My/Profile.aspx">Account</a></li>
+<li><a href="/User.aspx?submenu=true">Profile</a></li>
+<li><a href="/My/EditFriends.aspx">Friends</a></li>
+<li><a href="/My/Character.aspx">Character</a></li>
+<li><a href="/My/Stuff.aspx">Stuff</a></li>
+<li id="ctl00_ctl00_cphRoblox_SetsUrl"><a href="/My/Sets.aspx">Sets</a></li>
+<li><a href="/My/Groups.aspx">Groups</a></li>
+<li><a href="/My/AccountBalance.aspx">Money</a></li>
+<li><a href="/My/AdInventory.aspx">Advertising</a></li>
+<li><a href="/My/LinkInventory.aspx">Ambassadors</a></li>
+<li><a style="BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none" href="/My/InviteAFriend.aspx">Share</a> 
+<ul>
+<li><a href="/My/Share/PleaseUpgradeMe.aspx">Please Upgrade Me</a></li>
+<li><a href="/My/InviteAFriend.aspx">Invite A Friend</a></li>
+<li id="ctl00_ctl00_cphRoblox_ref1"><a href="/My/Share/ReferralLeaderboards.aspx">Referral Leaderboards</a></li></ul></li></ul></div>
+<div id="Sidebars" style="margin-top: 10px;">
+    <div class="StandardBoxHeader" style="width: 230px;">
+        <span>Upgrades</span></div>
+    <div class="StandardBox">
+    <ul>
+  <li><a href="/Upgrades/BuildersClubMemberships.aspx">Join Builders Club</a></li>
+  <li><a href="/Upgrades/Robux.aspx">Buy Robux</a></li>
+  <li><a href="/Upgrades/Robux.aspx">Top up on Robux</a></li>
+</ul>
+        </div>
+    </div>
+<br>
+
+<div class="EditProfileContainer">
+    <div class="StandardBoxHeader" style="width: 624px;">
+            <span>Account Settings</span></div>
+
+            <div class="StandardBox" style="width: 620px;">
+                <div class="StandardBoxContent">
+                    <div class="AccountSettingsForm">
+
+
+                    <div id="SelectTheme">
+                        <fieldset title="Select your theme">
+                            <legend>Select your theme</legend>
+                           
+                            <div class="Validators">
+                                <div>
+                                    </div>
+                                <div>
+                                    </div>
+                                <div>
+                                    </div>
+                                <div>
+                                    </div>
+                                <div>
+                                    </div>
+                                <div>
+                                    </div>
+                                <div>
+                            <input type="radio" name="theme" value="ROBLOX 1.0"> <label>ROBLOX 1.0</label><br>
+                            <input type="radio" name="theme" value="ROBLOX 2.0" > <label>ROBLOX 2.0</label><br>
+                            <input type="radio" name="theme" checked= value="ROBLOX 3.0"> <label  >ROBLOX 3.0</label><br>
+                            <input type="radio" name="theme" disabled= value="Outragous 2.0"> <label style="color: grey;" > Outragous 2.0</label> <br>
+                            <input type="radio" name="theme" disabled= value="Outragous 3.0"> <label style="color: grey;" > Outragous 3.0</label><br>
+
+                            
+
+                    </div>
+</div>
+
+</div>
+<br>
+
+                    <div id="ResetPassword">
+                        <fieldset title="Change your password">
+                            <legend>Change your password</legend>
+                          
+                                    
+<div class="ResetPasswordRow">
+                                <label for="ctl00_cphRoblox_PasswordTextBox" id="ctl00_cphRoblox_PasswordLabel" class="text">Click the button below to change your password</label>
+                                <br>
+                                    <a href="/My/ResetPassword.aspx">Change Password</a>
+</div>
+
+</div>
+<br>
+<div id="EnterEmail">
+                        <fieldset title="Update your email address">
+                            <legend>Update your email address</legend>
+                            <span> Click the button below to update your email address</span><br>
+                            <a href="/My/ChangeEmail.aspx">Update Email Address</a> <br>
+                            <b> Email Verified </b> <br>
+                            <input type="checkbox" id="extraemail" name="extraemail" value="1" checked>
+                            <label for="extraemail"> sign up for email news and updates from ROBLOX</label><br>
+
+</div>
+
+<br>
+<div id="UserBlurb">
+
+<fieldset title="Update your email address">
+    <legend> Update your personal blurb </legend>
+                            <span>Describe Yourself here (max. 1000 characters). Make sure not to provide any details that can be used to idenitfy you outside <?php echo $branding ?>.</span>
+<br>
+<br>
+<div class="BlurbRow" id="BlurbRow">
+
+<textarea name="UserBlurb" id="UserBlurb" tabindex="5" class="TextBox"  cols="35" style=" width: 560px; height: 130px; resize: none;"></textarea></div>
+
+</div>
+
+
+<br>
+<div id="ChatMode">
+                        <fieldset title="Chat Settings"> 
+                            <legend>Chat Settings <span style="color: grey;">(Who can chat with me)</span><br></legend> 
+
+<div class="ChatModeRow" id="ChatModeRow">
+                            <input type="radio" name="ChatMode" value="All"> <label>All Users</label>
+                            <input type="radio" name="ChatMode" value="BestFriends"> <label>Best Friends</label>
+                            <input type="radio" name="ChatMode" value="Friends"> <label>Friends</label>
+                            <input type="radio" name="ChatMode" value="NoOne"> <label>No One</label>
+                            <input type="radio" name="ChatMode" checked  value="Off"> <label>Off (Chat bar will not be shown.)</label>
+
+</div>
+</div>
+             
+
+
+<br>
+<div id="PartyMode">
+                        <fieldset title="Party Settings"> 
+                            <legend>Party Settings <span style="color: grey;">(Who can invite me to a parties)</span><br></legend> 
+
+<div class="PartyModeRow" id="PartyModeRow">
+                            <input type="radio" name="PartyMode" value="All"> <label>All Users</label>
+                            <input type="radio" name="PartyMode" value="BestFriends"> <label>Best Friends</label>
+                            <input type="radio" name="PartyMode" value="Friends"> <label>Friends</label>
+                            <input type="radio" name="PartyMode" value="NoOne"> <label>No One</label>
+                            <input type="radio" name="PartyMode" checked  value="Off"> <label>Off (Party tab will not be shown.)</label>
+
+</div>
+</div>
+
+
+<br>
+<div id="">
+                        <fieldset title="Private Message Settings"> 
+                            <legend>Private Message Settings <span style="color: grey;">(Who can send me private messages)</span><br></legend> 
+
+<div class="PrivateMessageModeRow" id="PrivateMessageModeRow">
+                            <input type="radio" name="PrivateMessageMode" checked value="All"> <label>All Users</label>
+                            <input type="radio" name="PrivateMessageMode" value="BestFriends"> <label>Best Friends</label>
+                            <input type="radio" name="PrivateMessageMode" value="Friends"> <label>Friends</label>
+                            <input type="radio" name="PrivateMessageMode" value="NoOne"> <label>No One</label>
+
+</div>
+</div>
+
+
+<br>
+<div id="PartyMode">
+                        <fieldset title="Party Settings"> 
+                            <legend>Party Settings <span style="color: grey;">(Who can invite me to a parties)</span><br></legend> 
+
+<div class="PartyModeRow" id="PartyModeRow">
+                            <input type="radio" name="PartyMode" value="All"> <label>All Users</label>
+                            <input type="radio" name="PartyMode" value="BestFriends"> <label>Best Friends</label>
+                            <input type="radio" name="PartyMode" value="Friends"> <label>Friends</label>
+                            <input type="radio" name="PartyMode" value="NoOne"> <label>No One</label>
+                            <input type="radio" name="PartyMode" checked  value="Off"> <label>Off (Party tab will not be shown.)</label>
+
+</div>
+</div>
+
+
+<br>
+<div id="">
+                        <fieldset title="Follow Settings"> 
+                            <legend>Follow Settings <span style="color: grey;">(Who can follow me)</span><br></legend> 
+
+<div class="FollowModeRow" id="FollowModeRow">
+                            <input type="radio" name="FollowMode" checked value="All"> <label>All Users</label>
+                            <input type="radio" name="FollowMode" value="BestFriends"> <label>Best Friends</label>
+                            <input type="radio" name="FollowMode" value="Friends"> <label>Friends</label>
+                            <input type="radio" name="FollowMode" value="NoOne"> <label>No One</label>
+
+</div>
+</div>
+<br>
+<button id="UpdateButton" class="Button">Update</button>
+<button id="CancelButton" class="Button">Cancel</button>
+        
+                            
+
+
+
+                    
+
+
+</div>                    </div>
+
+
+
+
+                </div>
+            </div>
+        </div>  
+
+
+
+
+
+
+
+
